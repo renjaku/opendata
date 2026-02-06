@@ -1,0 +1,11 @@
+name: 農林水産業及び清酒製造業
+note: 園芸サービス、牛馬の育成、酪農、養鶏、養豚、内水面養殖および特定の船員を雇用する事業については一般の事業の率が適用されます。
+
+revisions:
+  - start: 2023-04-01
+    employeeRate: 0.007
+    employerRate: 0.0105
+
+  - start: 2025-04-01
+    employeeRate: 0.0065
+    employerRate: 0.010

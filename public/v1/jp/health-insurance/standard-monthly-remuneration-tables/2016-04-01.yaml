@@ -1,0 +1,199 @@
+- grade: 1
+  amount: 58000
+  lowerLimit: null
+
+- grade: 2
+  amount: 68000
+  lowerLimit: 63000
+
+- grade: 3
+  amount: 78000
+  lowerLimit: 73000
+
+- grade: 4
+  amount: 88000
+  lowerLimit: 83000
+
+- grade: 5
+  amount: 98000
+  lowerLimit: 93000
+
+- grade: 6
+  amount: 104000
+  lowerLimit: 101000
+
+- grade: 7
+  amount: 110000
+  lowerLimit: 107000
+
+- grade: 8
+  amount: 118000
+  lowerLimit: 114000
+
+- grade: 9
+  amount: 126000
+  lowerLimit: 122000
+
+- grade: 10
+  amount: 134000
+  lowerLimit: 130000
+
+- grade: 11
+  amount: 142000
+  lowerLimit: 138000
+
+- grade: 12
+  amount: 150000
+  lowerLimit: 146000
+
+- grade: 13
+  amount: 160000
+  lowerLimit: 155000
+
+- grade: 14
+  amount: 170000
+  lowerLimit: 165000
+
+- grade: 15
+  amount: 180000
+  lowerLimit: 175000
+
+- grade: 16
+  amount: 190000
+  lowerLimit: 185000
+
+- grade: 17
+  amount: 200000
+  lowerLimit: 195000
+
+- grade: 18
+  amount: 220000
+  lowerLimit: 210000
+
+- grade: 19
+  amount: 240000
+  lowerLimit: 230000
+
+- grade: 20
+  amount: 260000
+  lowerLimit: 250000
+
+- grade: 21
+  amount: 280000
+  lowerLimit: 270000
+
+- grade: 22
+  amount: 300000
+  lowerLimit: 290000
+
+- grade: 23
+  amount: 320000
+  lowerLimit: 310000
+
+- grade: 24
+  amount: 340000
+  lowerLimit: 330000
+
+- grade: 25
+  amount: 360000
+  lowerLimit: 350000
+
+- grade: 26
+  amount: 380000
+  lowerLimit: 370000
+
+- grade: 27
+  amount: 410000
+  lowerLimit: 395000
+
+- grade: 28
+  amount: 440000
+  lowerLimit: 425000
+
+- grade: 29
+  amount: 470000
+  lowerLimit: 455000
+
+- grade: 30
+  amount: 500000
+  lowerLimit: 485000
+
+- grade: 31
+  amount: 530000
+  lowerLimit: 515000
+
+- grade: 32
+  amount: 560000
+  lowerLimit: 545000
+
+- grade: 33
+  amount: 590000
+  lowerLimit: 575000
+
+- grade: 34
+  amount: 620000
+  lowerLimit: 605000
+
+- grade: 35
+  amount: 650000
+  lowerLimit: 635000
+
+- grade: 36
+  amount: 680000
+  lowerLimit: 665000
+
+- grade: 37
+  amount: 710000
+  lowerLimit: 695000
+
+- grade: 38
+  amount: 750000
+  lowerLimit: 730000
+
+- grade: 39
+  amount: 790000
+  lowerLimit: 770000
+
+- grade: 40
+  amount: 830000
+  lowerLimit: 810000
+
+- grade: 41
+  amount: 880000
+  lowerLimit: 855000
+
+- grade: 42
+  amount: 930000
+  lowerLimit: 905000
+
+- grade: 43
+  amount: 980000
+  lowerLimit: 955000
+
+- grade: 44
+  amount: 1030000
+  lowerLimit: 1005000
+
+- grade: 45
+  amount: 1090000
+  lowerLimit: 1055000
+
+- grade: 46
+  amount: 1150000
+  lowerLimit: 1115000
+
+- grade: 47
+  amount: 1210000
+  lowerLimit: 1175000
+
+- grade: 48
+  amount: 1270000
+  lowerLimit: 1235000
+
+- grade: 49
+  amount: 1330000
+  lowerLimit: 1295000
+
+- grade: 50
+  amount: 1390000
+  lowerLimit: 1355000

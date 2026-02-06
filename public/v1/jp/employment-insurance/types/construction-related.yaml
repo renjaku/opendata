@@ -1,0 +1,10 @@
+name: 建設関連事業
+
+revisions:
+  - start: 2023-04-01
+    employeeRate: 0.007
+    employerRate: 0.0115
+
+  - start: 2025-04-01
+    employeeRate: 0.0065
+    employerRate: 0.011

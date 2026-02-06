@@ -1,0 +1,5587 @@
+metadata:
+  maxDependents: 7
+  dependentsOverMaxAdjustment:
+    perExtraDependentDeduction: 1610
+
+general:
+  - lowerLimit: 0
+    dependents:
+      - count: 0
+        amount: 0
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 88000
+    dependents:
+      - count: 0
+        amount: 130
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 89000
+    dependents:
+      - count: 0
+        amount: 180
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 90000
+    dependents:
+      - count: 0
+        amount: 230
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 91000
+    dependents:
+      - count: 0
+        amount: 290
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 92000
+    dependents:
+      - count: 0
+        amount: 340
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 93000
+    dependents:
+      - count: 0
+        amount: 390
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 94000
+    dependents:
+      - count: 0
+        amount: 440
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 95000
+    dependents:
+      - count: 0
+        amount: 490
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 96000
+    dependents:
+      - count: 0
+        amount: 540
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 97000
+    dependents:
+      - count: 0
+        amount: 590
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 98000
+    dependents:
+      - count: 0
+        amount: 640
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 99000
+    dependents:
+      - count: 0
+        amount: 720
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 101000
+    dependents:
+      - count: 0
+        amount: 830
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 103000
+    dependents:
+      - count: 0
+        amount: 930
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 105000
+    dependents:
+      - count: 0
+        amount: 1030
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 107000
+    dependents:
+      - count: 0
+        amount: 1130
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 109000
+    dependents:
+      - count: 0
+        amount: 1240
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 111000
+    dependents:
+      - count: 0
+        amount: 1340
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 113000
+    dependents:
+      - count: 0
+        amount: 1440
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 115000
+    dependents:
+      - count: 0
+        amount: 1540
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 117000
+    dependents:
+      - count: 0
+        amount: 1640
+      - count: 1
+        amount: 0
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 119000
+    dependents:
+      - count: 0
+        amount: 1750
+      - count: 1
+        amount: 120
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 121000
+    dependents:
+      - count: 0
+        amount: 1850
+      - count: 1
+        amount: 220
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 123000
+    dependents:
+      - count: 0
+        amount: 1950
+      - count: 1
+        amount: 330
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 125000
+    dependents:
+      - count: 0
+        amount: 2050
+      - count: 1
+        amount: 430
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 127000
+    dependents:
+      - count: 0
+        amount: 2150
+      - count: 1
+        amount: 530
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 129000
+    dependents:
+      - count: 0
+        amount: 2260
+      - count: 1
+        amount: 630
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 131000
+    dependents:
+      - count: 0
+        amount: 2360
+      - count: 1
+        amount: 740
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 133000
+    dependents:
+      - count: 0
+        amount: 2460
+      - count: 1
+        amount: 840
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 135000
+    dependents:
+      - count: 0
+        amount: 2550
+      - count: 1
+        amount: 930
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 137000
+    dependents:
+      - count: 0
+        amount: 2610
+      - count: 1
+        amount: 990
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 139000
+    dependents:
+      - count: 0
+        amount: 2680
+      - count: 1
+        amount: 1050
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 141000
+    dependents:
+      - count: 0
+        amount: 2740
+      - count: 1
+        amount: 1110
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 143000
+    dependents:
+      - count: 0
+        amount: 2800
+      - count: 1
+        amount: 1170
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 145000
+    dependents:
+      - count: 0
+        amount: 2860
+      - count: 1
+        amount: 1240
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 147000
+    dependents:
+      - count: 0
+        amount: 2920
+      - count: 1
+        amount: 1300
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 149000
+    dependents:
+      - count: 0
+        amount: 2980
+      - count: 1
+        amount: 1360
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 151000
+    dependents:
+      - count: 0
+        amount: 3050
+      - count: 1
+        amount: 1430
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 153000
+    dependents:
+      - count: 0
+        amount: 3120
+      - count: 1
+        amount: 1500
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 155000
+    dependents:
+      - count: 0
+        amount: 3200
+      - count: 1
+        amount: 1570
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 157000
+    dependents:
+      - count: 0
+        amount: 3270
+      - count: 1
+        amount: 1640
+      - count: 2
+        amount: 0
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 159000
+    dependents:
+      - count: 0
+        amount: 3340
+      - count: 1
+        amount: 1720
+      - count: 2
+        amount: 100
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 161000
+    dependents:
+      - count: 0
+        amount: 3410
+      - count: 1
+        amount: 1790
+      - count: 2
+        amount: 170
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 163000
+    dependents:
+      - count: 0
+        amount: 3480
+      - count: 1
+        amount: 1860
+      - count: 2
+        amount: 250
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 165000
+    dependents:
+      - count: 0
+        amount: 3550
+      - count: 1
+        amount: 1930
+      - count: 2
+        amount: 320
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 167000
+    dependents:
+      - count: 0
+        amount: 3620
+      - count: 1
+        amount: 2000
+      - count: 2
+        amount: 390
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 169000
+    dependents:
+      - count: 0
+        amount: 3700
+      - count: 1
+        amount: 2070
+      - count: 2
+        amount: 460
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 171000
+    dependents:
+      - count: 0
+        amount: 3770
+      - count: 1
+        amount: 2140
+      - count: 2
+        amount: 530
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 173000
+    dependents:
+      - count: 0
+        amount: 3840
+      - count: 1
+        amount: 2220
+      - count: 2
+        amount: 600
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 175000
+    dependents:
+      - count: 0
+        amount: 3910
+      - count: 1
+        amount: 2290
+      - count: 2
+        amount: 670
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 177000
+    dependents:
+      - count: 0
+        amount: 3980
+      - count: 1
+        amount: 2360
+      - count: 2
+        amount: 750
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 179000
+    dependents:
+      - count: 0
+        amount: 4050
+      - count: 1
+        amount: 2430
+      - count: 2
+        amount: 820
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 181000
+    dependents:
+      - count: 0
+        amount: 4120
+      - count: 1
+        amount: 2500
+      - count: 2
+        amount: 890
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 183000
+    dependents:
+      - count: 0
+        amount: 4200
+      - count: 1
+        amount: 2570
+      - count: 2
+        amount: 960
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 185000
+    dependents:
+      - count: 0
+        amount: 4270
+      - count: 1
+        amount: 2640
+      - count: 2
+        amount: 1030
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 187000
+    dependents:
+      - count: 0
+        amount: 4340
+      - count: 1
+        amount: 2720
+      - count: 2
+        amount: 1100
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 189000
+    dependents:
+      - count: 0
+        amount: 4410
+      - count: 1
+        amount: 2790
+      - count: 2
+        amount: 1170
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 191000
+    dependents:
+      - count: 0
+        amount: 4480
+      - count: 1
+        amount: 2860
+      - count: 2
+        amount: 1250
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 193000
+    dependents:
+      - count: 0
+        amount: 4550
+      - count: 1
+        amount: 2930
+      - count: 2
+        amount: 1320
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 195000
+    dependents:
+      - count: 0
+        amount: 4630
+      - count: 1
+        amount: 3000
+      - count: 2
+        amount: 1390
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 197000
+    dependents:
+      - count: 0
+        amount: 4700
+      - count: 1
+        amount: 3070
+      - count: 2
+        amount: 1460
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 199000
+    dependents:
+      - count: 0
+        amount: 4770
+      - count: 1
+        amount: 3140
+      - count: 2
+        amount: 1530
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 201000
+    dependents:
+      - count: 0
+        amount: 4840
+      - count: 1
+        amount: 3220
+      - count: 2
+        amount: 1600
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 203000
+    dependents:
+      - count: 0
+        amount: 4910
+      - count: 1
+        amount: 3290
+      - count: 2
+        amount: 1670
+      - count: 3
+        amount: 0
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 205000
+    dependents:
+      - count: 0
+        amount: 4980
+      - count: 1
+        amount: 3360
+      - count: 2
+        amount: 1750
+      - count: 3
+        amount: 130
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 207000
+    dependents:
+      - count: 0
+        amount: 5050
+      - count: 1
+        amount: 3430
+      - count: 2
+        amount: 1820
+      - count: 3
+        amount: 200
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 209000
+    dependents:
+      - count: 0
+        amount: 5130
+      - count: 1
+        amount: 3500
+      - count: 2
+        amount: 1890
+      - count: 3
+        amount: 280
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 211000
+    dependents:
+      - count: 0
+        amount: 5200
+      - count: 1
+        amount: 3570
+      - count: 2
+        amount: 1960
+      - count: 3
+        amount: 350
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 213000
+    dependents:
+      - count: 0
+        amount: 5270
+      - count: 1
+        amount: 3640
+      - count: 2
+        amount: 2030
+      - count: 3
+        amount: 420
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 215000
+    dependents:
+      - count: 0
+        amount: 5340
+      - count: 1
+        amount: 3720
+      - count: 2
+        amount: 2100
+      - count: 3
+        amount: 490
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 217000
+    dependents:
+      - count: 0
+        amount: 5410
+      - count: 1
+        amount: 3790
+      - count: 2
+        amount: 2170
+      - count: 3
+        amount: 560
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 219000
+    dependents:
+      - count: 0
+        amount: 5480
+      - count: 1
+        amount: 3860
+      - count: 2
+        amount: 2250
+      - count: 3
+        amount: 630
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 221000
+    dependents:
+      - count: 0
+        amount: 5560
+      - count: 1
+        amount: 3950
+      - count: 2
+        amount: 2340
+      - count: 3
+        amount: 710
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 224000
+    dependents:
+      - count: 0
+        amount: 5680
+      - count: 1
+        amount: 4060
+      - count: 2
+        amount: 2440
+      - count: 3
+        amount: 830
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 227000
+    dependents:
+      - count: 0
+        amount: 5780
+      - count: 1
+        amount: 4170
+      - count: 2
+        amount: 2550
+      - count: 3
+        amount: 930
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 230000
+    dependents:
+      - count: 0
+        amount: 5890
+      - count: 1
+        amount: 4280
+      - count: 2
+        amount: 2650
+      - count: 3
+        amount: 1040
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 233000
+    dependents:
+      - count: 0
+        amount: 5990
+      - count: 1
+        amount: 4380
+      - count: 2
+        amount: 2770
+      - count: 3
+        amount: 1140
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 236000
+    dependents:
+      - count: 0
+        amount: 6110
+      - count: 1
+        amount: 4490
+      - count: 2
+        amount: 2870
+      - count: 3
+        amount: 1260
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 239000
+    dependents:
+      - count: 0
+        amount: 6210
+      - count: 1
+        amount: 4590
+      - count: 2
+        amount: 2980
+      - count: 3
+        amount: 1360
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 242000
+    dependents:
+      - count: 0
+        amount: 6320
+      - count: 1
+        amount: 4710
+      - count: 2
+        amount: 3080
+      - count: 3
+        amount: 1470
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 245000
+    dependents:
+      - count: 0
+        amount: 6420
+      - count: 1
+        amount: 4810
+      - count: 2
+        amount: 3200
+      - count: 3
+        amount: 1570
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 248000
+    dependents:
+      - count: 0
+        amount: 6530
+      - count: 1
+        amount: 4920
+      - count: 2
+        amount: 3300
+      - count: 3
+        amount: 1680
+      - count: 4
+        amount: 0
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 251000
+    dependents:
+      - count: 0
+        amount: 6640
+      - count: 1
+        amount: 5020
+      - count: 2
+        amount: 3410
+      - count: 3
+        amount: 1790
+      - count: 4
+        amount: 170
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 254000
+    dependents:
+      - count: 0
+        amount: 6750
+      - count: 1
+        amount: 5140
+      - count: 2
+        amount: 3510
+      - count: 3
+        amount: 1900
+      - count: 4
+        amount: 290
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 257000
+    dependents:
+      - count: 0
+        amount: 6850
+      - count: 1
+        amount: 5240
+      - count: 2
+        amount: 3620
+      - count: 3
+        amount: 2000
+      - count: 4
+        amount: 390
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 260000
+    dependents:
+      - count: 0
+        amount: 6960
+      - count: 1
+        amount: 5350
+      - count: 2
+        amount: 3730
+      - count: 3
+        amount: 2110
+      - count: 4
+        amount: 500
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 263000
+    dependents:
+      - count: 0
+        amount: 7070
+      - count: 1
+        amount: 5450
+      - count: 2
+        amount: 3840
+      - count: 3
+        amount: 2220
+      - count: 4
+        amount: 600
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 266000
+    dependents:
+      - count: 0
+        amount: 7180
+      - count: 1
+        amount: 5560
+      - count: 2
+        amount: 3940
+      - count: 3
+        amount: 2330
+      - count: 4
+        amount: 710
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 269000
+    dependents:
+      - count: 0
+        amount: 7280
+      - count: 1
+        amount: 5670
+      - count: 2
+        amount: 4050
+      - count: 3
+        amount: 2430
+      - count: 4
+        amount: 820
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 272000
+    dependents:
+      - count: 0
+        amount: 7390
+      - count: 1
+        amount: 5780
+      - count: 2
+        amount: 4160
+      - count: 3
+        amount: 2540
+      - count: 4
+        amount: 930
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 275000
+    dependents:
+      - count: 0
+        amount: 7490
+      - count: 1
+        amount: 5880
+      - count: 2
+        amount: 4270
+      - count: 3
+        amount: 2640
+      - count: 4
+        amount: 1030
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 278000
+    dependents:
+      - count: 0
+        amount: 7610
+      - count: 1
+        amount: 5990
+      - count: 2
+        amount: 4370
+      - count: 3
+        amount: 2760
+      - count: 4
+        amount: 1140
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 281000
+    dependents:
+      - count: 0
+        amount: 7710
+      - count: 1
+        amount: 6100
+      - count: 2
+        amount: 4480
+      - count: 3
+        amount: 2860
+      - count: 4
+        amount: 1250
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 284000
+    dependents:
+      - count: 0
+        amount: 7820
+      - count: 1
+        amount: 6210
+      - count: 2
+        amount: 4580
+      - count: 3
+        amount: 2970
+      - count: 4
+        amount: 1360
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 287000
+    dependents:
+      - count: 0
+        amount: 7920
+      - count: 1
+        amount: 6310
+      - count: 2
+        amount: 4700
+      - count: 3
+        amount: 3070
+      - count: 4
+        amount: 1460
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 290000
+    dependents:
+      - count: 0
+        amount: 8040
+      - count: 1
+        amount: 6420
+      - count: 2
+        amount: 4800
+      - count: 3
+        amount: 3190
+      - count: 4
+        amount: 1570
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 293000
+    dependents:
+      - count: 0
+        amount: 8140
+      - count: 1
+        amount: 6520
+      - count: 2
+        amount: 4910
+      - count: 3
+        amount: 3290
+      - count: 4
+        amount: 1670
+      - count: 5
+        amount: 0
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 296000
+    dependents:
+      - count: 0
+        amount: 8250
+      - count: 1
+        amount: 6640
+      - count: 2
+        amount: 5010
+      - count: 3
+        amount: 3400
+      - count: 4
+        amount: 1790
+      - count: 5
+        amount: 160
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 299000
+    dependents:
+      - count: 0
+        amount: 8420
+      - count: 1
+        amount: 6740
+      - count: 2
+        amount: 5130
+      - count: 3
+        amount: 3510
+      - count: 4
+        amount: 1890
+      - count: 5
+        amount: 280
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 302000
+    dependents:
+      - count: 0
+        amount: 8670
+      - count: 1
+        amount: 6860
+      - count: 2
+        amount: 5250
+      - count: 3
+        amount: 3630
+      - count: 4
+        amount: 2010
+      - count: 5
+        amount: 400
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 305000
+    dependents:
+      - count: 0
+        amount: 8910
+      - count: 1
+        amount: 6980
+      - count: 2
+        amount: 5370
+      - count: 3
+        amount: 3760
+      - count: 4
+        amount: 2130
+      - count: 5
+        amount: 520
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 308000
+    dependents:
+      - count: 0
+        amount: 9160
+      - count: 1
+        amount: 7110
+      - count: 2
+        amount: 5490
+      - count: 3
+        amount: 3880
+      - count: 4
+        amount: 2260
+      - count: 5
+        amount: 640
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 311000
+    dependents:
+      - count: 0
+        amount: 9400
+      - count: 1
+        amount: 7230
+      - count: 2
+        amount: 5620
+      - count: 3
+        amount: 4000
+      - count: 4
+        amount: 2380
+      - count: 5
+        amount: 770
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 314000
+    dependents:
+      - count: 0
+        amount: 9650
+      - count: 1
+        amount: 7350
+      - count: 2
+        amount: 5740
+      - count: 3
+        amount: 4120
+      - count: 4
+        amount: 2500
+      - count: 5
+        amount: 890
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 317000
+    dependents:
+      - count: 0
+        amount: 9890
+      - count: 1
+        amount: 7470
+      - count: 2
+        amount: 5860
+      - count: 3
+        amount: 4250
+      - count: 4
+        amount: 2620
+      - count: 5
+        amount: 1010
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 320000
+    dependents:
+      - count: 0
+        amount: 10140
+      - count: 1
+        amount: 7600
+      - count: 2
+        amount: 5980
+      - count: 3
+        amount: 4370
+      - count: 4
+        amount: 2750
+      - count: 5
+        amount: 1130
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 323000
+    dependents:
+      - count: 0
+        amount: 10380
+      - count: 1
+        amount: 7720
+      - count: 2
+        amount: 6110
+      - count: 3
+        amount: 4490
+      - count: 4
+        amount: 2870
+      - count: 5
+        amount: 1260
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 326000
+    dependents:
+      - count: 0
+        amount: 10630
+      - count: 1
+        amount: 7840
+      - count: 2
+        amount: 6230
+      - count: 3
+        amount: 4610
+      - count: 4
+        amount: 2990
+      - count: 5
+        amount: 1380
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 329000
+    dependents:
+      - count: 0
+        amount: 10870
+      - count: 1
+        amount: 7960
+      - count: 2
+        amount: 6350
+      - count: 3
+        amount: 4740
+      - count: 4
+        amount: 3110
+      - count: 5
+        amount: 1500
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 332000
+    dependents:
+      - count: 0
+        amount: 11120
+      - count: 1
+        amount: 8090
+      - count: 2
+        amount: 6470
+      - count: 3
+        amount: 4860
+      - count: 4
+        amount: 3240
+      - count: 5
+        amount: 1620
+      - count: 6
+        amount: 0
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 335000
+    dependents:
+      - count: 0
+        amount: 11360
+      - count: 1
+        amount: 8210
+      - count: 2
+        amount: 6600
+      - count: 3
+        amount: 4980
+      - count: 4
+        amount: 3360
+      - count: 5
+        amount: 1750
+      - count: 6
+        amount: 130
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 338000
+    dependents:
+      - count: 0
+        amount: 11610
+      - count: 1
+        amount: 8370
+      - count: 2
+        amount: 6720
+      - count: 3
+        amount: 5110
+      - count: 4
+        amount: 3480
+      - count: 5
+        amount: 1870
+      - count: 6
+        amount: 260
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 341000
+    dependents:
+      - count: 0
+        amount: 11850
+      - count: 1
+        amount: 8620
+      - count: 2
+        amount: 6840
+      - count: 3
+        amount: 5230
+      - count: 4
+        amount: 3600
+      - count: 5
+        amount: 1990
+      - count: 6
+        amount: 380
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 344000
+    dependents:
+      - count: 0
+        amount: 12100
+      - count: 1
+        amount: 8860
+      - count: 2
+        amount: 6960
+      - count: 3
+        amount: 5350
+      - count: 4
+        amount: 3730
+      - count: 5
+        amount: 2110
+      - count: 6
+        amount: 500
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 347000
+    dependents:
+      - count: 0
+        amount: 12340
+      - count: 1
+        amount: 9110
+      - count: 2
+        amount: 7090
+      - count: 3
+        amount: 5470
+      - count: 4
+        amount: 3850
+      - count: 5
+        amount: 2240
+      - count: 6
+        amount: 620
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 350000
+    dependents:
+      - count: 0
+        amount: 12590
+      - count: 1
+        amount: 9350
+      - count: 2
+        amount: 7210
+      - count: 3
+        amount: 5600
+      - count: 4
+        amount: 3970
+      - count: 5
+        amount: 2360
+      - count: 6
+        amount: 750
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 353000
+    dependents:
+      - count: 0
+        amount: 12830
+      - count: 1
+        amount: 9600
+      - count: 2
+        amount: 7330
+      - count: 3
+        amount: 5720
+      - count: 4
+        amount: 4090
+      - count: 5
+        amount: 2480
+      - count: 6
+        amount: 870
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 356000
+    dependents:
+      - count: 0
+        amount: 13080
+      - count: 1
+        amount: 9840
+      - count: 2
+        amount: 7450
+      - count: 3
+        amount: 5840
+      - count: 4
+        amount: 4220
+      - count: 5
+        amount: 2600
+      - count: 6
+        amount: 990
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 359000
+    dependents:
+      - count: 0
+        amount: 13320
+      - count: 1
+        amount: 10090
+      - count: 2
+        amount: 7580
+      - count: 3
+        amount: 5960
+      - count: 4
+        amount: 4340
+      - count: 5
+        amount: 2730
+      - count: 6
+        amount: 1110
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 362000
+    dependents:
+      - count: 0
+        amount: 13570
+      - count: 1
+        amount: 10330
+      - count: 2
+        amount: 7700
+      - count: 3
+        amount: 6090
+      - count: 4
+        amount: 4460
+      - count: 5
+        amount: 2850
+      - count: 6
+        amount: 1240
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 365000
+    dependents:
+      - count: 0
+        amount: 13810
+      - count: 1
+        amount: 10580
+      - count: 2
+        amount: 7820
+      - count: 3
+        amount: 6210
+      - count: 4
+        amount: 4580
+      - count: 5
+        amount: 2970
+      - count: 6
+        amount: 1360
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 368000
+    dependents:
+      - count: 0
+        amount: 14060
+      - count: 1
+        amount: 10820
+      - count: 2
+        amount: 7940
+      - count: 3
+        amount: 6330
+      - count: 4
+        amount: 4710
+      - count: 5
+        amount: 3090
+      - count: 6
+        amount: 1480
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 371000
+    dependents:
+      - count: 0
+        amount: 14300
+      - count: 1
+        amount: 11070
+      - count: 2
+        amount: 8070
+      - count: 3
+        amount: 6450
+      - count: 4
+        amount: 4830
+      - count: 5
+        amount: 3220
+      - count: 6
+        amount: 1600
+      - count: 7
+        amount: 0
+
+  - lowerLimit: 374000
+    dependents:
+      - count: 0
+        amount: 14550
+      - count: 1
+        amount: 11310
+      - count: 2
+        amount: 8190
+      - count: 3
+        amount: 6580
+      - count: 4
+        amount: 4950
+      - count: 5
+        amount: 3340
+      - count: 6
+        amount: 1730
+      - count: 7
+        amount: 100
+
+  - lowerLimit: 377000
+    dependents:
+      - count: 0
+        amount: 14790
+      - count: 1
+        amount: 11560
+      - count: 2
+        amount: 8320
+      - count: 3
+        amount: 6700
+      - count: 4
+        amount: 5070
+      - count: 5
+        amount: 3460
+      - count: 6
+        amount: 1850
+      - count: 7
+        amount: 220
+
+  - lowerLimit: 380000
+    dependents:
+      - count: 0
+        amount: 15040
+      - count: 1
+        amount: 11800
+      - count: 2
+        amount: 8570
+      - count: 3
+        amount: 6820
+      - count: 4
+        amount: 5200
+      - count: 5
+        amount: 3580
+      - count: 6
+        amount: 1970
+      - count: 7
+        amount: 350
+
+  - lowerLimit: 383000
+    dependents:
+      - count: 0
+        amount: 15280
+      - count: 1
+        amount: 12050
+      - count: 2
+        amount: 8810
+      - count: 3
+        amount: 6940
+      - count: 4
+        amount: 5320
+      - count: 5
+        amount: 3710
+      - count: 6
+        amount: 2090
+      - count: 7
+        amount: 470
+
+  - lowerLimit: 386000
+    dependents:
+      - count: 0
+        amount: 15530
+      - count: 1
+        amount: 12290
+      - count: 2
+        amount: 9060
+      - count: 3
+        amount: 7070
+      - count: 4
+        amount: 5440
+      - count: 5
+        amount: 3830
+      - count: 6
+        amount: 2220
+      - count: 7
+        amount: 590
+
+  - lowerLimit: 389000
+    dependents:
+      - count: 0
+        amount: 15770
+      - count: 1
+        amount: 12540
+      - count: 2
+        amount: 9300
+      - count: 3
+        amount: 7190
+      - count: 4
+        amount: 5560
+      - count: 5
+        amount: 3950
+      - count: 6
+        amount: 2340
+      - count: 7
+        amount: 710
+
+  - lowerLimit: 392000
+    dependents:
+      - count: 0
+        amount: 16020
+      - count: 1
+        amount: 12780
+      - count: 2
+        amount: 9550
+      - count: 3
+        amount: 7310
+      - count: 4
+        amount: 5690
+      - count: 5
+        amount: 4070
+      - count: 6
+        amount: 2460
+      - count: 7
+        amount: 840
+
+  - lowerLimit: 395000
+    dependents:
+      - count: 0
+        amount: 16260
+      - count: 1
+        amount: 13030
+      - count: 2
+        amount: 9790
+      - count: 3
+        amount: 7430
+      - count: 4
+        amount: 5810
+      - count: 5
+        amount: 4200
+      - count: 6
+        amount: 2580
+      - count: 7
+        amount: 960
+
+  - lowerLimit: 398000
+    dependents:
+      - count: 0
+        amount: 16510
+      - count: 1
+        amount: 13270
+      - count: 2
+        amount: 10040
+      - count: 3
+        amount: 7560
+      - count: 4
+        amount: 5930
+      - count: 5
+        amount: 4320
+      - count: 6
+        amount: 2710
+      - count: 7
+        amount: 1080
+
+  - lowerLimit: 401000
+    dependents:
+      - count: 0
+        amount: 16750
+      - count: 1
+        amount: 13520
+      - count: 2
+        amount: 10280
+      - count: 3
+        amount: 7680
+      - count: 4
+        amount: 6050
+      - count: 5
+        amount: 4440
+      - count: 6
+        amount: 2830
+      - count: 7
+        amount: 1200
+
+  - lowerLimit: 404000
+    dependents:
+      - count: 0
+        amount: 17000
+      - count: 1
+        amount: 13760
+      - count: 2
+        amount: 10530
+      - count: 3
+        amount: 7800
+      - count: 4
+        amount: 6180
+      - count: 5
+        amount: 4560
+      - count: 6
+        amount: 2950
+      - count: 7
+        amount: 1330
+
+  - lowerLimit: 407000
+    dependents:
+      - count: 0
+        amount: 17240
+      - count: 1
+        amount: 14010
+      - count: 2
+        amount: 10770
+      - count: 3
+        amount: 7920
+      - count: 4
+        amount: 6300
+      - count: 5
+        amount: 4690
+      - count: 6
+        amount: 3070
+      - count: 7
+        amount: 1450
+
+  - lowerLimit: 410000
+    dependents:
+      - count: 0
+        amount: 17490
+      - count: 1
+        amount: 14250
+      - count: 2
+        amount: 11020
+      - count: 3
+        amount: 8050
+      - count: 4
+        amount: 6420
+      - count: 5
+        amount: 4810
+      - count: 6
+        amount: 3200
+      - count: 7
+        amount: 1570
+
+  - lowerLimit: 413000
+    dependents:
+      - count: 0
+        amount: 17730
+      - count: 1
+        amount: 14500
+      - count: 2
+        amount: 11260
+      - count: 3
+        amount: 8170
+      - count: 4
+        amount: 6540
+      - count: 5
+        amount: 4930
+      - count: 6
+        amount: 3320
+      - count: 7
+        amount: 1690
+
+  - lowerLimit: 416000
+    dependents:
+      - count: 0
+        amount: 17980
+      - count: 1
+        amount: 14740
+      - count: 2
+        amount: 11510
+      - count: 3
+        amount: 8290
+      - count: 4
+        amount: 6670
+      - count: 5
+        amount: 5050
+      - count: 6
+        amount: 3440
+      - count: 7
+        amount: 1820
+
+  - lowerLimit: 419000
+    dependents:
+      - count: 0
+        amount: 18220
+      - count: 1
+        amount: 14990
+      - count: 2
+        amount: 11750
+      - count: 3
+        amount: 8530
+      - count: 4
+        amount: 6790
+      - count: 5
+        amount: 5180
+      - count: 6
+        amount: 3560
+      - count: 7
+        amount: 1940
+
+  - lowerLimit: 422000
+    dependents:
+      - count: 0
+        amount: 18470
+      - count: 1
+        amount: 15230
+      - count: 2
+        amount: 12000
+      - count: 3
+        amount: 8770
+      - count: 4
+        amount: 6910
+      - count: 5
+        amount: 5300
+      - count: 6
+        amount: 3690
+      - count: 7
+        amount: 2060
+
+  - lowerLimit: 425000
+    dependents:
+      - count: 0
+        amount: 18710
+      - count: 1
+        amount: 15480
+      - count: 2
+        amount: 12240
+      - count: 3
+        amount: 9020
+      - count: 4
+        amount: 7030
+      - count: 5
+        amount: 5420
+      - count: 6
+        amount: 3810
+      - count: 7
+        amount: 2180
+
+  - lowerLimit: 428000
+    dependents:
+      - count: 0
+        amount: 18960
+      - count: 1
+        amount: 15720
+      - count: 2
+        amount: 12490
+      - count: 3
+        amount: 9260
+      - count: 4
+        amount: 7160
+      - count: 5
+        amount: 5540
+      - count: 6
+        amount: 3930
+      - count: 7
+        amount: 2310
+
+  - lowerLimit: 431000
+    dependents:
+      - count: 0
+        amount: 19210
+      - count: 1
+        amount: 15970
+      - count: 2
+        amount: 12730
+      - count: 3
+        amount: 9510
+      - count: 4
+        amount: 7280
+      - count: 5
+        amount: 5670
+      - count: 6
+        amount: 4050
+      - count: 7
+        amount: 2430
+
+  - lowerLimit: 434000
+    dependents:
+      - count: 0
+        amount: 19450
+      - count: 1
+        amount: 16210
+      - count: 2
+        amount: 12980
+      - count: 3
+        amount: 9750
+      - count: 4
+        amount: 7400
+      - count: 5
+        amount: 5790
+      - count: 6
+        amount: 4180
+      - count: 7
+        amount: 2550
+
+  - lowerLimit: 437000
+    dependents:
+      - count: 0
+        amount: 19700
+      - count: 1
+        amount: 16460
+      - count: 2
+        amount: 13220
+      - count: 3
+        amount: 10000
+      - count: 4
+        amount: 7520
+      - count: 5
+        amount: 5910
+      - count: 6
+        amount: 4300
+      - count: 7
+        amount: 2680
+
+  - lowerLimit: 440000
+    dependents:
+      - count: 0
+        amount: 20090
+      - count: 1
+        amount: 16700
+      - count: 2
+        amount: 13470
+      - count: 3
+        amount: 10240
+      - count: 4
+        amount: 7650
+      - count: 5
+        amount: 6030
+      - count: 6
+        amount: 4420
+      - count: 7
+        amount: 2800
+
+  - lowerLimit: 443000
+    dependents:
+      - count: 0
+        amount: 20580
+      - count: 1
+        amount: 16950
+      - count: 2
+        amount: 13710
+      - count: 3
+        amount: 10490
+      - count: 4
+        amount: 7770
+      - count: 5
+        amount: 6160
+      - count: 6
+        amount: 4540
+      - count: 7
+        amount: 2920
+
+  - lowerLimit: 446000
+    dependents:
+      - count: 0
+        amount: 21070
+      - count: 1
+        amount: 17190
+      - count: 2
+        amount: 13960
+      - count: 3
+        amount: 10730
+      - count: 4
+        amount: 7890
+      - count: 5
+        amount: 6280
+      - count: 6
+        amount: 4670
+      - count: 7
+        amount: 3040
+
+  - lowerLimit: 449000
+    dependents:
+      - count: 0
+        amount: 21560
+      - count: 1
+        amount: 17440
+      - count: 2
+        amount: 14200
+      - count: 3
+        amount: 10980
+      - count: 4
+        amount: 8010
+      - count: 5
+        amount: 6400
+      - count: 6
+        amount: 4790
+      - count: 7
+        amount: 3170
+
+  - lowerLimit: 452000
+    dependents:
+      - count: 0
+        amount: 22050
+      - count: 1
+        amount: 17680
+      - count: 2
+        amount: 14450
+      - count: 3
+        amount: 11220
+      - count: 4
+        amount: 8140
+      - count: 5
+        amount: 6520
+      - count: 6
+        amount: 4910
+      - count: 7
+        amount: 3290
+
+  - lowerLimit: 455000
+    dependents:
+      - count: 0
+        amount: 22540
+      - count: 1
+        amount: 17930
+      - count: 2
+        amount: 14690
+      - count: 3
+        amount: 11470
+      - count: 4
+        amount: 8260
+      - count: 5
+        amount: 6650
+      - count: 6
+        amount: 5030
+      - count: 7
+        amount: 3410
+
+  - lowerLimit: 458000
+    dependents:
+      - count: 0
+        amount: 23030
+      - count: 1
+        amount: 18170
+      - count: 2
+        amount: 14940
+      - count: 3
+        amount: 11710
+      - count: 4
+        amount: 8470
+      - count: 5
+        amount: 6770
+      - count: 6
+        amount: 5160
+      - count: 7
+        amount: 3530
+
+  - lowerLimit: 461000
+    dependents:
+      - count: 0
+        amount: 23520
+      - count: 1
+        amount: 18420
+      - count: 2
+        amount: 15180
+      - count: 3
+        amount: 11960
+      - count: 4
+        amount: 8720
+      - count: 5
+        amount: 6890
+      - count: 6
+        amount: 5280
+      - count: 7
+        amount: 3660
+
+  - lowerLimit: 464000
+    dependents:
+      - count: 0
+        amount: 24010
+      - count: 1
+        amount: 18660
+      - count: 2
+        amount: 15430
+      - count: 3
+        amount: 12200
+      - count: 4
+        amount: 8960
+      - count: 5
+        amount: 7010
+      - count: 6
+        amount: 5400
+      - count: 7
+        amount: 3780
+
+  - lowerLimit: 467000
+    dependents:
+      - count: 0
+        amount: 24500
+      - count: 1
+        amount: 18910
+      - count: 2
+        amount: 15670
+      - count: 3
+        amount: 12450
+      - count: 4
+        amount: 9210
+      - count: 5
+        amount: 7140
+      - count: 6
+        amount: 5520
+      - count: 7
+        amount: 3900
+
+  - lowerLimit: 470000
+    dependents:
+      - count: 0
+        amount: 24990
+      - count: 1
+        amount: 19150
+      - count: 2
+        amount: 15920
+      - count: 3
+        amount: 12690
+      - count: 4
+        amount: 9450
+      - count: 5
+        amount: 7260
+      - count: 6
+        amount: 5650
+      - count: 7
+        amount: 4020
+
+  - lowerLimit: 473000
+    dependents:
+      - count: 0
+        amount: 25480
+      - count: 1
+        amount: 19400
+      - count: 2
+        amount: 16160
+      - count: 3
+        amount: 12940
+      - count: 4
+        amount: 9700
+      - count: 5
+        amount: 7380
+      - count: 6
+        amount: 5770
+      - count: 7
+        amount: 4150
+
+  - lowerLimit: 476000
+    dependents:
+      - count: 0
+        amount: 25970
+      - count: 1
+        amount: 19640
+      - count: 2
+        amount: 16410
+      - count: 3
+        amount: 13180
+      - count: 4
+        amount: 9940
+      - count: 5
+        amount: 7500
+      - count: 6
+        amount: 5890
+      - count: 7
+        amount: 4270
+
+  - lowerLimit: 479000
+    dependents:
+      - count: 0
+        amount: 26460
+      - count: 1
+        amount: 20000
+      - count: 2
+        amount: 16650
+      - count: 3
+        amount: 13430
+      - count: 4
+        amount: 10190
+      - count: 5
+        amount: 7630
+      - count: 6
+        amount: 6010
+      - count: 7
+        amount: 4390
+
+  - lowerLimit: 482000
+    dependents:
+      - count: 0
+        amount: 26950
+      - count: 1
+        amount: 20490
+      - count: 2
+        amount: 16900
+      - count: 3
+        amount: 13670
+      - count: 4
+        amount: 10430
+      - count: 5
+        amount: 7750
+      - count: 6
+        amount: 6140
+      - count: 7
+        amount: 4510
+
+  - lowerLimit: 485000
+    dependents:
+      - count: 0
+        amount: 27440
+      - count: 1
+        amount: 20980
+      - count: 2
+        amount: 17140
+      - count: 3
+        amount: 13920
+      - count: 4
+        amount: 10680
+      - count: 5
+        amount: 7870
+      - count: 6
+        amount: 6260
+      - count: 7
+        amount: 4640
+
+  - lowerLimit: 488000
+    dependents:
+      - count: 0
+        amount: 27930
+      - count: 1
+        amount: 21470
+      - count: 2
+        amount: 17390
+      - count: 3
+        amount: 14160
+      - count: 4
+        amount: 10920
+      - count: 5
+        amount: 7990
+      - count: 6
+        amount: 6380
+      - count: 7
+        amount: 4760
+
+  - lowerLimit: 491000
+    dependents:
+      - count: 0
+        amount: 28420
+      - count: 1
+        amount: 21960
+      - count: 2
+        amount: 17630
+      - count: 3
+        amount: 14410
+      - count: 4
+        amount: 11170
+      - count: 5
+        amount: 8120
+      - count: 6
+        amount: 6500
+      - count: 7
+        amount: 4880
+
+  - lowerLimit: 494000
+    dependents:
+      - count: 0
+        amount: 28910
+      - count: 1
+        amount: 22450
+      - count: 2
+        amount: 17880
+      - count: 3
+        amount: 14650
+      - count: 4
+        amount: 11410
+      - count: 5
+        amount: 8240
+      - count: 6
+        amount: 6630
+      - count: 7
+        amount: 5000
+
+  - lowerLimit: 497000
+    dependents:
+      - count: 0
+        amount: 29400
+      - count: 1
+        amount: 22940
+      - count: 2
+        amount: 18120
+      - count: 3
+        amount: 14900
+      - count: 4
+        amount: 11660
+      - count: 5
+        amount: 8420
+      - count: 6
+        amount: 6750
+      - count: 7
+        amount: 5130
+
+  - lowerLimit: 500000
+    dependents:
+      - count: 0
+        amount: 29890
+      - count: 1
+        amount: 23430
+      - count: 2
+        amount: 18370
+      - count: 3
+        amount: 15140
+      - count: 4
+        amount: 11900
+      - count: 5
+        amount: 8670
+      - count: 6
+        amount: 6870
+      - count: 7
+        amount: 5250
+
+  - lowerLimit: 503000
+    dependents:
+      - count: 0
+        amount: 30380
+      - count: 1
+        amount: 23920
+      - count: 2
+        amount: 18610
+      - count: 3
+        amount: 15390
+      - count: 4
+        amount: 12150
+      - count: 5
+        amount: 8910
+      - count: 6
+        amount: 6990
+      - count: 7
+        amount: 5370
+
+  - lowerLimit: 506000
+    dependents:
+      - count: 0
+        amount: 30880
+      - count: 1
+        amount: 24410
+      - count: 2
+        amount: 18860
+      - count: 3
+        amount: 15630
+      - count: 4
+        amount: 12390
+      - count: 5
+        amount: 9160
+      - count: 6
+        amount: 7120
+      - count: 7
+        amount: 5490
+
+  - lowerLimit: 509000
+    dependents:
+      - count: 0
+        amount: 31370
+      - count: 1
+        amount: 24900
+      - count: 2
+        amount: 19100
+      - count: 3
+        amount: 15880
+      - count: 4
+        amount: 12640
+      - count: 5
+        amount: 9400
+      - count: 6
+        amount: 7240
+      - count: 7
+        amount: 5620
+
+  - lowerLimit: 512000
+    dependents:
+      - count: 0
+        amount: 31860
+      - count: 1
+        amount: 25390
+      - count: 2
+        amount: 19350
+      - count: 3
+        amount: 16120
+      - count: 4
+        amount: 12890
+      - count: 5
+        amount: 9650
+      - count: 6
+        amount: 7360
+      - count: 7
+        amount: 5740
+
+  - lowerLimit: 515000
+    dependents:
+      - count: 0
+        amount: 32350
+      - count: 1
+        amount: 25880
+      - count: 2
+        amount: 19590
+      - count: 3
+        amount: 16370
+      - count: 4
+        amount: 13130
+      - count: 5
+        amount: 9890
+      - count: 6
+        amount: 7480
+      - count: 7
+        amount: 5860
+
+  - lowerLimit: 518000
+    dependents:
+      - count: 0
+        amount: 32840
+      - count: 1
+        amount: 26370
+      - count: 2
+        amount: 19900
+      - count: 3
+        amount: 16610
+      - count: 4
+        amount: 13380
+      - count: 5
+        amount: 10140
+      - count: 6
+        amount: 7610
+      - count: 7
+        amount: 5980
+
+  - lowerLimit: 521000
+    dependents:
+      - count: 0
+        amount: 33330
+      - count: 1
+        amount: 26860
+      - count: 2
+        amount: 20390
+      - count: 3
+        amount: 16860
+      - count: 4
+        amount: 13620
+      - count: 5
+        amount: 10380
+      - count: 6
+        amount: 7730
+      - count: 7
+        amount: 6110
+
+  - lowerLimit: 524000
+    dependents:
+      - count: 0
+        amount: 33820
+      - count: 1
+        amount: 27350
+      - count: 2
+        amount: 20880
+      - count: 3
+        amount: 17100
+      - count: 4
+        amount: 13870
+      - count: 5
+        amount: 10630
+      - count: 6
+        amount: 7850
+      - count: 7
+        amount: 6230
+
+  - lowerLimit: 527000
+    dependents:
+      - count: 0
+        amount: 34310
+      - count: 1
+        amount: 27840
+      - count: 2
+        amount: 21370
+      - count: 3
+        amount: 17350
+      - count: 4
+        amount: 14110
+      - count: 5
+        amount: 10870
+      - count: 6
+        amount: 7970
+      - count: 7
+        amount: 6350
+
+  - lowerLimit: 530000
+    dependents:
+      - count: 0
+        amount: 34800
+      - count: 1
+        amount: 28330
+      - count: 2
+        amount: 21860
+      - count: 3
+        amount: 17590
+      - count: 4
+        amount: 14360
+      - count: 5
+        amount: 11120
+      - count: 6
+        amount: 8100
+      - count: 7
+        amount: 6470
+
+  - lowerLimit: 533000
+    dependents:
+      - count: 0
+        amount: 35290
+      - count: 1
+        amount: 28820
+      - count: 2
+        amount: 22350
+      - count: 3
+        amount: 17840
+      - count: 4
+        amount: 14600
+      - count: 5
+        amount: 11360
+      - count: 6
+        amount: 8220
+      - count: 7
+        amount: 6600
+
+  - lowerLimit: 536000
+    dependents:
+      - count: 0
+        amount: 35780
+      - count: 1
+        amount: 29310
+      - count: 2
+        amount: 22840
+      - count: 3
+        amount: 18080
+      - count: 4
+        amount: 14850
+      - count: 5
+        amount: 11610
+      - count: 6
+        amount: 8380
+      - count: 7
+        amount: 6720
+
+  - lowerLimit: 539000
+    dependents:
+      - count: 0
+        amount: 36270
+      - count: 1
+        amount: 29800
+      - count: 2
+        amount: 23330
+      - count: 3
+        amount: 18330
+      - count: 4
+        amount: 15090
+      - count: 5
+        amount: 11850
+      - count: 6
+        amount: 8630
+      - count: 7
+        amount: 6840
+
+  - lowerLimit: 542000
+    dependents:
+      - count: 0
+        amount: 36760
+      - count: 1
+        amount: 30290
+      - count: 2
+        amount: 23820
+      - count: 3
+        amount: 18570
+      - count: 4
+        amount: 15340
+      - count: 5
+        amount: 12100
+      - count: 6
+        amount: 8870
+      - count: 7
+        amount: 6960
+
+  - lowerLimit: 545000
+    dependents:
+      - count: 0
+        amount: 37250
+      - count: 1
+        amount: 30780
+      - count: 2
+        amount: 24310
+      - count: 3
+        amount: 18820
+      - count: 4
+        amount: 15580
+      - count: 5
+        amount: 12340
+      - count: 6
+        amount: 9120
+      - count: 7
+        amount: 7090
+
+  - lowerLimit: 548000
+    dependents:
+      - count: 0
+        amount: 37740
+      - count: 1
+        amount: 31270
+      - count: 2
+        amount: 24800
+      - count: 3
+        amount: 19060
+      - count: 4
+        amount: 15830
+      - count: 5
+        amount: 12590
+      - count: 6
+        amount: 9360
+      - count: 7
+        amount: 7210
+
+  - lowerLimit: 551000
+    dependents:
+      - count: 0
+        amount: 38280
+      - count: 1
+        amount: 31810
+      - count: 2
+        amount: 25340
+      - count: 3
+        amount: 19330
+      - count: 4
+        amount: 16100
+      - count: 5
+        amount: 12860
+      - count: 6
+        amount: 9630
+      - count: 7
+        amount: 7350
+
+  - lowerLimit: 554000
+    dependents:
+      - count: 0
+        amount: 38830
+      - count: 1
+        amount: 32370
+      - count: 2
+        amount: 25890
+      - count: 3
+        amount: 19600
+      - count: 4
+        amount: 16380
+      - count: 5
+        amount: 13140
+      - count: 6
+        amount: 9900
+      - count: 7
+        amount: 7480
+
+  - lowerLimit: 557000
+    dependents:
+      - count: 0
+        amount: 39380
+      - count: 1
+        amount: 32920
+      - count: 2
+        amount: 26440
+      - count: 3
+        amount: 19980
+      - count: 4
+        amount: 16650
+      - count: 5
+        amount: 13420
+      - count: 6
+        amount: 10180
+      - count: 7
+        amount: 7630
+
+  - lowerLimit: 560000
+    dependents:
+      - count: 0
+        amount: 39930
+      - count: 1
+        amount: 33470
+      - count: 2
+        amount: 27000
+      - count: 3
+        amount: 20530
+      - count: 4
+        amount: 16930
+      - count: 5
+        amount: 13690
+      - count: 6
+        amount: 10460
+      - count: 7
+        amount: 7760
+
+  - lowerLimit: 563000
+    dependents:
+      - count: 0
+        amount: 40480
+      - count: 1
+        amount: 34020
+      - count: 2
+        amount: 27550
+      - count: 3
+        amount: 21080
+      - count: 4
+        amount: 17200
+      - count: 5
+        amount: 13970
+      - count: 6
+        amount: 10730
+      - count: 7
+        amount: 7900
+
+  - lowerLimit: 566000
+    dependents:
+      - count: 0
+        amount: 41030
+      - count: 1
+        amount: 34570
+      - count: 2
+        amount: 28100
+      - count: 3
+        amount: 21630
+      - count: 4
+        amount: 17480
+      - count: 5
+        amount: 14240
+      - count: 6
+        amount: 11010
+      - count: 7
+        amount: 8040
+
+  - lowerLimit: 569000
+    dependents:
+      - count: 0
+        amount: 41590
+      - count: 1
+        amount: 35120
+      - count: 2
+        amount: 28650
+      - count: 3
+        amount: 22190
+      - count: 4
+        amount: 17760
+      - count: 5
+        amount: 14520
+      - count: 6
+        amount: 11280
+      - count: 7
+        amount: 8180
+
+  - lowerLimit: 572000
+    dependents:
+      - count: 0
+        amount: 42140
+      - count: 1
+        amount: 35670
+      - count: 2
+        amount: 29200
+      - count: 3
+        amount: 22740
+      - count: 4
+        amount: 18030
+      - count: 5
+        amount: 14790
+      - count: 6
+        amount: 11560
+      - count: 7
+        amount: 8330
+
+  - lowerLimit: 575000
+    dependents:
+      - count: 0
+        amount: 42690
+      - count: 1
+        amount: 36230
+      - count: 2
+        amount: 29750
+      - count: 3
+        amount: 23290
+      - count: 4
+        amount: 18310
+      - count: 5
+        amount: 15070
+      - count: 6
+        amount: 11830
+      - count: 7
+        amount: 8610
+
+  - lowerLimit: 578000
+    dependents:
+      - count: 0
+        amount: 43240
+      - count: 1
+        amount: 36780
+      - count: 2
+        amount: 30300
+      - count: 3
+        amount: 23840
+      - count: 4
+        amount: 18580
+      - count: 5
+        amount: 15350
+      - count: 6
+        amount: 12110
+      - count: 7
+        amount: 8880
+
+  - lowerLimit: 581000
+    dependents:
+      - count: 0
+        amount: 43790
+      - count: 1
+        amount: 37330
+      - count: 2
+        amount: 30850
+      - count: 3
+        amount: 24390
+      - count: 4
+        amount: 18860
+      - count: 5
+        amount: 15620
+      - count: 6
+        amount: 12380
+      - count: 7
+        amount: 9160
+
+  - lowerLimit: 584000
+    dependents:
+      - count: 0
+        amount: 44340
+      - count: 1
+        amount: 37880
+      - count: 2
+        amount: 31410
+      - count: 3
+        amount: 24940
+      - count: 4
+        amount: 19130
+      - count: 5
+        amount: 15900
+      - count: 6
+        amount: 12660
+      - count: 7
+        amount: 9430
+
+  - lowerLimit: 587000
+    dependents:
+      - count: 0
+        amount: 44890
+      - count: 1
+        amount: 38430
+      - count: 2
+        amount: 31960
+      - count: 3
+        amount: 25490
+      - count: 4
+        amount: 19410
+      - count: 5
+        amount: 16170
+      - count: 6
+        amount: 12940
+      - count: 7
+        amount: 9710
+
+  - lowerLimit: 590000
+    dependents:
+      - count: 0
+        amount: 45440
+      - count: 1
+        amount: 38980
+      - count: 2
+        amount: 32510
+      - count: 3
+        amount: 26050
+      - count: 4
+        amount: 19680
+      - count: 5
+        amount: 16450
+      - count: 6
+        amount: 13210
+      - count: 7
+        amount: 9990
+
+  - lowerLimit: 593000
+    dependents:
+      - count: 0
+        amount: 46000
+      - count: 1
+        amount: 39530
+      - count: 2
+        amount: 33060
+      - count: 3
+        amount: 26600
+      - count: 4
+        amount: 20130
+      - count: 5
+        amount: 16720
+      - count: 6
+        amount: 13490
+      - count: 7
+        amount: 10260
+
+  - lowerLimit: 596000
+    dependents:
+      - count: 0
+        amount: 46550
+      - count: 1
+        amount: 40080
+      - count: 2
+        amount: 33610
+      - count: 3
+        amount: 27150
+      - count: 4
+        amount: 20690
+      - count: 5
+        amount: 17000
+      - count: 6
+        amount: 13760
+      - count: 7
+        amount: 10540
+
+  - lowerLimit: 599000
+    dependents:
+      - count: 0
+        amount: 47100
+      - count: 1
+        amount: 40640
+      - count: 2
+        amount: 34160
+      - count: 3
+        amount: 27700
+      - count: 4
+        amount: 21240
+      - count: 5
+        amount: 17280
+      - count: 6
+        amount: 14040
+      - count: 7
+        amount: 10810
+
+  - lowerLimit: 602000
+    dependents:
+      - count: 0
+        amount: 47650
+      - count: 1
+        amount: 41190
+      - count: 2
+        amount: 34710
+      - count: 3
+        amount: 28250
+      - count: 4
+        amount: 21790
+      - count: 5
+        amount: 17550
+      - count: 6
+        amount: 14310
+      - count: 7
+        amount: 11090
+
+  - lowerLimit: 605000
+    dependents:
+      - count: 0
+        amount: 48200
+      - count: 1
+        amount: 41740
+      - count: 2
+        amount: 35270
+      - count: 3
+        amount: 28800
+      - count: 4
+        amount: 22340
+      - count: 5
+        amount: 17830
+      - count: 6
+        amount: 14590
+      - count: 7
+        amount: 11360
+
+  - lowerLimit: 608000
+    dependents:
+      - count: 0
+        amount: 48750
+      - count: 1
+        amount: 42290
+      - count: 2
+        amount: 35820
+      - count: 3
+        amount: 29350
+      - count: 4
+        amount: 22890
+      - count: 5
+        amount: 18100
+      - count: 6
+        amount: 14870
+      - count: 7
+        amount: 11640
+
+  - lowerLimit: 611000
+    dependents:
+      - count: 0
+        amount: 49300
+      - count: 1
+        amount: 42840
+      - count: 2
+        amount: 36370
+      - count: 3
+        amount: 29910
+      - count: 4
+        amount: 23440
+      - count: 5
+        amount: 18380
+      - count: 6
+        amount: 15140
+      - count: 7
+        amount: 11920
+
+  - lowerLimit: 614000
+    dependents:
+      - count: 0
+        amount: 49860
+      - count: 1
+        amount: 43390
+      - count: 2
+        amount: 36920
+      - count: 3
+        amount: 30460
+      - count: 4
+        amount: 23990
+      - count: 5
+        amount: 18650
+      - count: 6
+        amount: 15420
+      - count: 7
+        amount: 12190
+
+  - lowerLimit: 617000
+    dependents:
+      - count: 0
+        amount: 50410
+      - count: 1
+        amount: 43940
+      - count: 2
+        amount: 37470
+      - count: 3
+        amount: 31010
+      - count: 4
+        amount: 24540
+      - count: 5
+        amount: 18930
+      - count: 6
+        amount: 15690
+      - count: 7
+        amount: 12470
+
+  - lowerLimit: 620000
+    dependents:
+      - count: 0
+        amount: 50960
+      - count: 1
+        amount: 44500
+      - count: 2
+        amount: 38020
+      - count: 3
+        amount: 31560
+      - count: 4
+        amount: 25100
+      - count: 5
+        amount: 19210
+      - count: 6
+        amount: 15970
+      - count: 7
+        amount: 12740
+
+  - lowerLimit: 623000
+    dependents:
+      - count: 0
+        amount: 51510
+      - count: 1
+        amount: 45050
+      - count: 2
+        amount: 38570
+      - count: 3
+        amount: 32110
+      - count: 4
+        amount: 25650
+      - count: 5
+        amount: 19480
+      - count: 6
+        amount: 16240
+      - count: 7
+        amount: 13020
+
+  - lowerLimit: 626000
+    dependents:
+      - count: 0
+        amount: 52060
+      - count: 1
+        amount: 45600
+      - count: 2
+        amount: 39120
+      - count: 3
+        amount: 32660
+      - count: 4
+        amount: 26200
+      - count: 5
+        amount: 19760
+      - count: 6
+        amount: 16520
+      - count: 7
+        amount: 13290
+
+  - lowerLimit: 629000
+    dependents:
+      - count: 0
+        amount: 52610
+      - count: 1
+        amount: 46150
+      - count: 2
+        amount: 39680
+      - count: 3
+        amount: 33210
+      - count: 4
+        amount: 26750
+      - count: 5
+        amount: 20280
+      - count: 6
+        amount: 16800
+      - count: 7
+        amount: 13570
+
+  - lowerLimit: 632000
+    dependents:
+      - count: 0
+        amount: 53160
+      - count: 1
+        amount: 46700
+      - count: 2
+        amount: 40230
+      - count: 3
+        amount: 33760
+      - count: 4
+        amount: 27300
+      - count: 5
+        amount: 20830
+      - count: 6
+        amount: 17070
+      - count: 7
+        amount: 13840
+
+  - lowerLimit: 635000
+    dependents:
+      - count: 0
+        amount: 53710
+      - count: 1
+        amount: 47250
+      - count: 2
+        amount: 40780
+      - count: 3
+        amount: 34320
+      - count: 4
+        amount: 27850
+      - count: 5
+        amount: 21380
+      - count: 6
+        amount: 17350
+      - count: 7
+        amount: 14120
+
+  - lowerLimit: 638000
+    dependents:
+      - count: 0
+        amount: 54270
+      - count: 1
+        amount: 47800
+      - count: 2
+        amount: 41330
+      - count: 3
+        amount: 34870
+      - count: 4
+        amount: 28400
+      - count: 5
+        amount: 21930
+      - count: 6
+        amount: 17620
+      - count: 7
+        amount: 14400
+
+  - lowerLimit: 641000
+    dependents:
+      - count: 0
+        amount: 54820
+      - count: 1
+        amount: 48350
+      - count: 2
+        amount: 41880
+      - count: 3
+        amount: 35420
+      - count: 4
+        amount: 28960
+      - count: 5
+        amount: 22480
+      - count: 6
+        amount: 17900
+      - count: 7
+        amount: 14670
+
+  - lowerLimit: 644000
+    dependents:
+      - count: 0
+        amount: 55370
+      - count: 1
+        amount: 48910
+      - count: 2
+        amount: 42430
+      - count: 3
+        amount: 35970
+      - count: 4
+        amount: 29510
+      - count: 5
+        amount: 23030
+      - count: 6
+        amount: 18170
+      - count: 7
+        amount: 14950
+
+  - lowerLimit: 647000
+    dependents:
+      - count: 0
+        amount: 55920
+      - count: 1
+        amount: 49460
+      - count: 2
+        amount: 42980
+      - count: 3
+        amount: 36520
+      - count: 4
+        amount: 30060
+      - count: 5
+        amount: 23590
+      - count: 6
+        amount: 18450
+      - count: 7
+        amount: 15220
+
+  - lowerLimit: 650000
+    dependents:
+      - count: 0
+        amount: 56470
+      - count: 1
+        amount: 50010
+      - count: 2
+        amount: 43540
+      - count: 3
+        amount: 37070
+      - count: 4
+        amount: 30610
+      - count: 5
+        amount: 24140
+      - count: 6
+        amount: 18730
+      - count: 7
+        amount: 15500
+
+  - lowerLimit: 653000
+    dependents:
+      - count: 0
+        amount: 57020
+      - count: 1
+        amount: 50560
+      - count: 2
+        amount: 44090
+      - count: 3
+        amount: 37620
+      - count: 4
+        amount: 31160
+      - count: 5
+        amount: 24690
+      - count: 6
+        amount: 19000
+      - count: 7
+        amount: 15770
+
+  - lowerLimit: 656000
+    dependents:
+      - count: 0
+        amount: 57570
+      - count: 1
+        amount: 51110
+      - count: 2
+        amount: 44640
+      - count: 3
+        amount: 38180
+      - count: 4
+        amount: 31710
+      - count: 5
+        amount: 25240
+      - count: 6
+        amount: 19280
+      - count: 7
+        amount: 16050
+
+  - lowerLimit: 659000
+    dependents:
+      - count: 0
+        amount: 58130
+      - count: 1
+        amount: 51660
+      - count: 2
+        amount: 45190
+      - count: 3
+        amount: 38730
+      - count: 4
+        amount: 32260
+      - count: 5
+        amount: 25790
+      - count: 6
+        amount: 19550
+      - count: 7
+        amount: 16330
+
+  - lowerLimit: 662000
+    dependents:
+      - count: 0
+        amount: 58680
+      - count: 1
+        amount: 52210
+      - count: 2
+        amount: 45740
+      - count: 3
+        amount: 39280
+      - count: 4
+        amount: 32810
+      - count: 5
+        amount: 26340
+      - count: 6
+        amount: 19880
+      - count: 7
+        amount: 16600
+
+  - lowerLimit: 665000
+    dependents:
+      - count: 0
+        amount: 59230
+      - count: 1
+        amount: 52770
+      - count: 2
+        amount: 46290
+      - count: 3
+        amount: 39830
+      - count: 4
+        amount: 33370
+      - count: 5
+        amount: 26890
+      - count: 6
+        amount: 20430
+      - count: 7
+        amount: 16880
+
+  - lowerLimit: 668000
+    dependents:
+      - count: 0
+        amount: 59780
+      - count: 1
+        amount: 53320
+      - count: 2
+        amount: 46840
+      - count: 3
+        amount: 40380
+      - count: 4
+        amount: 33920
+      - count: 5
+        amount: 27440
+      - count: 6
+        amount: 20980
+      - count: 7
+        amount: 17150
+
+  - lowerLimit: 671000
+    dependents:
+      - count: 0
+        amount: 60330
+      - count: 1
+        amount: 53870
+      - count: 2
+        amount: 47390
+      - count: 3
+        amount: 40930
+      - count: 4
+        amount: 34470
+      - count: 5
+        amount: 28000
+      - count: 6
+        amount: 21530
+      - count: 7
+        amount: 17430
+
+  - lowerLimit: 674000
+    dependents:
+      - count: 0
+        amount: 60880
+      - count: 1
+        amount: 54420
+      - count: 2
+        amount: 47950
+      - count: 3
+        amount: 41480
+      - count: 4
+        amount: 35020
+      - count: 5
+        amount: 28550
+      - count: 6
+        amount: 22080
+      - count: 7
+        amount: 17700
+
+  - lowerLimit: 677000
+    dependents:
+      - count: 0
+        amount: 61430
+      - count: 1
+        amount: 54970
+      - count: 2
+        amount: 48500
+      - count: 3
+        amount: 42030
+      - count: 4
+        amount: 35570
+      - count: 5
+        amount: 29100
+      - count: 6
+        amount: 22640
+      - count: 7
+        amount: 17980
+
+  - lowerLimit: 680000
+    dependents:
+      - count: 0
+        amount: 61980
+      - count: 1
+        amount: 55520
+      - count: 2
+        amount: 49050
+      - count: 3
+        amount: 42590
+      - count: 4
+        amount: 36120
+      - count: 5
+        amount: 29650
+      - count: 6
+        amount: 23190
+      - count: 7
+        amount: 18260
+
+  - lowerLimit: 683000
+    dependents:
+      - count: 0
+        amount: 62540
+      - count: 1
+        amount: 56070
+      - count: 2
+        amount: 49600
+      - count: 3
+        amount: 43140
+      - count: 4
+        amount: 36670
+      - count: 5
+        amount: 30200
+      - count: 6
+        amount: 23740
+      - count: 7
+        amount: 18530
+
+  - lowerLimit: 686000
+    dependents:
+      - count: 0
+        amount: 63090
+      - count: 1
+        amount: 56620
+      - count: 2
+        amount: 50150
+      - count: 3
+        amount: 43690
+      - count: 4
+        amount: 37230
+      - count: 5
+        amount: 30750
+      - count: 6
+        amount: 24290
+      - count: 7
+        amount: 18810
+
+  - lowerLimit: 689000
+    dependents:
+      - count: 0
+        amount: 63640
+      - count: 1
+        amount: 57180
+      - count: 2
+        amount: 50700
+      - count: 3
+        amount: 44240
+      - count: 4
+        amount: 37780
+      - count: 5
+        amount: 31300
+      - count: 6
+        amount: 24840
+      - count: 7
+        amount: 19080
+
+  - lowerLimit: 692000
+    dependents:
+      - count: 0
+        amount: 64190
+      - count: 1
+        amount: 57730
+      - count: 2
+        amount: 51250
+      - count: 3
+        amount: 44790
+      - count: 4
+        amount: 38330
+      - count: 5
+        amount: 31860
+      - count: 6
+        amount: 25390
+      - count: 7
+        amount: 19360
+
+  - lowerLimit: 695000
+    dependents:
+      - count: 0
+        amount: 64740
+      - count: 1
+        amount: 58280
+      - count: 2
+        amount: 51810
+      - count: 3
+        amount: 45340
+      - count: 4
+        amount: 38880
+      - count: 5
+        amount: 32410
+      - count: 6
+        amount: 25940
+      - count: 7
+        amount: 19630
+
+  - lowerLimit: 698000
+    dependents:
+      - count: 0
+        amount: 65290
+      - count: 1
+        amount: 58830
+      - count: 2
+        amount: 52360
+      - count: 3
+        amount: 45890
+      - count: 4
+        amount: 39430
+      - count: 5
+        amount: 32960
+      - count: 6
+        amount: 26490
+      - count: 7
+        amount: 20030
+
+  - lowerLimit: 701000
+    dependents:
+      - count: 0
+        amount: 65840
+      - count: 1
+        amount: 59380
+      - count: 2
+        amount: 52910
+      - count: 3
+        amount: 46450
+      - count: 4
+        amount: 39980
+      - count: 5
+        amount: 33510
+      - count: 6
+        amount: 27050
+      - count: 7
+        amount: 20580
+
+  - lowerLimit: 704000
+    dependents:
+      - count: 0
+        amount: 66400
+      - count: 1
+        amount: 59930
+      - count: 2
+        amount: 53460
+      - count: 3
+        amount: 47000
+      - count: 4
+        amount: 40530
+      - count: 5
+        amount: 34060
+      - count: 6
+        amount: 27600
+      - count: 7
+        amount: 21130
+
+  - lowerLimit: 707000
+    dependents:
+      - count: 0
+        amount: 66960
+      - count: 1
+        amount: 60480
+      - count: 2
+        amount: 54020
+      - count: 3
+        amount: 47550
+      - count: 4
+        amount: 41090
+      - count: 5
+        amount: 34620
+      - count: 6
+        amount: 28150
+      - count: 7
+        amount: 21690
+
+  - lowerLimit: 710000
+    dependents:
+      - count: 0
+        amount: 67570
+      - count: 1
+        amount: 61100
+      - count: 2
+        amount: 54630
+      - count: 3
+        amount: 48160
+      - count: 4
+        amount: 41700
+      - count: 5
+        amount: 35230
+      - count: 6
+        amount: 28760
+      - count: 7
+        amount: 22300
+
+  - lowerLimit: 713000
+    dependents:
+      - count: 0
+        amount: 68180
+      - count: 1
+        amount: 61710
+      - count: 2
+        amount: 55250
+      - count: 3
+        amount: 48770
+      - count: 4
+        amount: 42310
+      - count: 5
+        amount: 35850
+      - count: 6
+        amount: 29370
+      - count: 7
+        amount: 22910
+
+  - lowerLimit: 716000
+    dependents:
+      - count: 0
+        amount: 68790
+      - count: 1
+        amount: 62320
+      - count: 2
+        amount: 55860
+      - count: 3
+        amount: 49390
+      - count: 4
+        amount: 42920
+      - count: 5
+        amount: 36460
+      - count: 6
+        amount: 29990
+      - count: 7
+        amount: 23520
+
+  - lowerLimit: 719000
+    dependents:
+      - count: 0
+        amount: 69410
+      - count: 1
+        amount: 62930
+      - count: 2
+        amount: 56470
+      - count: 3
+        amount: 50000
+      - count: 4
+        amount: 43540
+      - count: 5
+        amount: 37070
+      - count: 6
+        amount: 30600
+      - count: 7
+        amount: 24140
+
+  - lowerLimit: 722000
+    dependents:
+      - count: 0
+        amount: 70020
+      - count: 1
+        amount: 63550
+      - count: 2
+        amount: 57080
+      - count: 3
+        amount: 50610
+      - count: 4
+        amount: 44150
+      - count: 5
+        amount: 37690
+      - count: 6
+        amount: 31210
+      - count: 7
+        amount: 24750
+
+  - lowerLimit: 725000
+    dependents:
+      - count: 0
+        amount: 70630
+      - count: 1
+        amount: 64160
+      - count: 2
+        amount: 57700
+      - count: 3
+        amount: 51220
+      - count: 4
+        amount: 44760
+      - count: 5
+        amount: 38300
+      - count: 6
+        amount: 31820
+      - count: 7
+        amount: 25360
+
+  - lowerLimit: 728000
+    dependents:
+      - count: 0
+        amount: 71250
+      - count: 1
+        amount: 64770
+      - count: 2
+        amount: 58310
+      - count: 3
+        amount: 51840
+      - count: 4
+        amount: 45370
+      - count: 5
+        amount: 38910
+      - count: 6
+        amount: 32440
+      - count: 7
+        amount: 25970
+
+  - lowerLimit: 731000
+    dependents:
+      - count: 0
+        amount: 71860
+      - count: 1
+        amount: 65380
+      - count: 2
+        amount: 58920
+      - count: 3
+        amount: 52450
+      - count: 4
+        amount: 45990
+      - count: 5
+        amount: 39520
+      - count: 6
+        amount: 33050
+      - count: 7
+        amount: 26590
+
+  - lowerLimit: 734000
+    dependents:
+      - count: 0
+        amount: 72470
+      - count: 1
+        amount: 66000
+      - count: 2
+        amount: 59530
+      - count: 3
+        amount: 53060
+      - count: 4
+        amount: 46600
+      - count: 5
+        amount: 40140
+      - count: 6
+        amount: 33660
+      - count: 7
+        amount: 27200
+
+  - lowerLimit: 737000
+    dependents:
+      - count: 0
+        amount: 73080
+      - count: 1
+        amount: 66610
+      - count: 2
+        amount: 60150
+      - count: 3
+        amount: 53670
+      - count: 4
+        amount: 47210
+      - count: 5
+        amount: 40750
+      - count: 6
+        amount: 34270
+      - count: 7
+        amount: 27810
+
+  - lowerLimit: 740000
+    dependents:
+      - count: 0
+        amount: 73390
+      - count: 1
+        amount: 66920
+      - count: 2
+        amount: 60450
+      - count: 3
+        amount: 53980
+      - count: 4
+        amount: 47520
+      - count: 5
+        amount: 41050
+      - count: 6
+        amount: 34580
+      - count: 7
+        amount: 28120
+    overLowerLimitRate: 0.2042
+
+  - lowerLimit: 780000
+    dependents:
+      - count: 0
+        amount: 81560
+      - count: 1
+        amount: 75090
+      - count: 2
+        amount: 68620
+      - count: 3
+        amount: 62150
+      - count: 4
+        amount: 55690
+      - count: 5
+        amount: 49220
+      - count: 6
+        amount: 42750
+      - count: 7
+        amount: 36290
+    overLowerLimitRate: 0.23483
+
+  - lowerLimit: 950000
+    dependents:
+      - count: 0
+        amount: 121480
+      - count: 1
+        amount: 115010
+      - count: 2
+        amount: 108540
+      - count: 3
+        amount: 102070
+      - count: 4
+        amount: 95610
+      - count: 5
+        amount: 89140
+      - count: 6
+        amount: 82670
+      - count: 7
+        amount: 76210
+    overLowerLimitRate: 0.33693
+
+  - lowerLimit: 1700000
+    dependents:
+      - count: 0
+        amount: 374180
+      - count: 1
+        amount: 367710
+      - count: 2
+        amount: 361240
+      - count: 3
+        amount: 354770
+      - count: 4
+        amount: 348310
+      - count: 5
+        amount: 341840
+      - count: 6
+        amount: 335370
+      - count: 7
+        amount: 328910
+    overLowerLimitRate: 0.4084
+
+  - lowerLimit: 2170000
+    dependents:
+      - count: 0
+        amount: 571570
+      - count: 1
+        amount: 565090
+      - count: 2
+        amount: 558630
+      - count: 3
+        amount: 552160
+      - count: 4
+        amount: 545690
+      - count: 5
+        amount: 539230
+      - count: 6
+        amount: 532760
+      - count: 7
+        amount: 526290
+    overLowerLimitRate: 0.4084
+
+  - lowerLimit: 2210000
+    dependents:
+      - count: 0
+        amount: 593340
+      - count: 1
+        amount: 586870
+      - count: 2
+        amount: 580410
+      - count: 3
+        amount: 573930
+      - count: 4
+        amount: 567470
+      - count: 5
+        amount: 561010
+      - count: 6
+        amount: 554540
+      - count: 7
+        amount: 548070
+    overLowerLimitRate: 0.4084
+
+  - lowerLimit: 2250000
+    dependents:
+      - count: 0
+        amount: 615120
+      - count: 1
+        amount: 608650
+      - count: 2
+        amount: 602190
+      - count: 3
+        amount: 595710
+      - count: 4
+        amount: 589250
+      - count: 5
+        amount: 582790
+      - count: 6
+        amount: 576310
+      - count: 7
+        amount: 569850
+    overLowerLimitRate: 0.4084
+
+  - lowerLimit: 3500000
+    dependents:
+      - count: 0
+        amount: 1125620
+      - count: 1
+        amount: 1119150
+      - count: 2
+        amount: 1112690
+      - count: 3
+        amount: 1106210
+      - count: 4
+        amount: 1099750
+      - count: 5
+        amount: 1093290
+      - count: 6
+        amount: 1086810
+      - count: 7
+        amount: 1080350
+    overLowerLimitRate: 0.45945
+
+default:
+  - lowerLimit: 0
+    amount: 0
+    overLowerLimitRate: 0.03063
+
+  - lowerLimit: 88000
+    amount: 3200
+
+  - lowerLimit: 89000
+    amount: 3200
+
+  - lowerLimit: 90000
+    amount: 3200
+
+  - lowerLimit: 91000
+    amount: 3200
+
+  - lowerLimit: 92000
+    amount: 3300
+
+  - lowerLimit: 93000
+    amount: 3300
+
+  - lowerLimit: 94000
+    amount: 3300
+
+  - lowerLimit: 95000
+    amount: 3400
+
+  - lowerLimit: 96000
+    amount: 3400
+
+  - lowerLimit: 97000
+    amount: 3500
+
+  - lowerLimit: 98000
+    amount: 3500
+
+  - lowerLimit: 99000
+    amount: 3600
+
+  - lowerLimit: 101000
+    amount: 3600
+
+  - lowerLimit: 103000
+    amount: 3700
+
+  - lowerLimit: 105000
+    amount: 3800
+
+  - lowerLimit: 107000
+    amount: 3800
+
+  - lowerLimit: 109000
+    amount: 3900
+
+  - lowerLimit: 111000
+    amount: 4000
+
+  - lowerLimit: 113000
+    amount: 4100
+
+  - lowerLimit: 115000
+    amount: 4100
+
+  - lowerLimit: 117000
+    amount: 4200
+
+  - lowerLimit: 119000
+    amount: 4300
+
+  - lowerLimit: 121000
+    amount: 4500
+
+  - lowerLimit: 123000
+    amount: 4800
+
+  - lowerLimit: 125000
+    amount: 5100
+
+  - lowerLimit: 127000
+    amount: 5400
+
+  - lowerLimit: 129000
+    amount: 5700
+
+  - lowerLimit: 131000
+    amount: 6000
+
+  - lowerLimit: 133000
+    amount: 6300
+
+  - lowerLimit: 135000
+    amount: 6600
+
+  - lowerLimit: 137000
+    amount: 6800
+
+  - lowerLimit: 139000
+    amount: 7100
+
+  - lowerLimit: 141000
+    amount: 7500
+
+  - lowerLimit: 143000
+    amount: 7800
+
+  - lowerLimit: 145000
+    amount: 8100
+
+  - lowerLimit: 147000
+    amount: 8400
+
+  - lowerLimit: 149000
+    amount: 8700
+
+  - lowerLimit: 151000
+    amount: 9000
+
+  - lowerLimit: 153000
+    amount: 9300
+
+  - lowerLimit: 155000
+    amount: 9600
+
+  - lowerLimit: 157000
+    amount: 9900
+
+  - lowerLimit: 159000
+    amount: 10200
+
+  - lowerLimit: 161000
+    amount: 10500
+
+  - lowerLimit: 163000
+    amount: 10800
+
+  - lowerLimit: 165000
+    amount: 11100
+
+  - lowerLimit: 167000
+    amount: 11400
+
+  - lowerLimit: 169000
+    amount: 11700
+
+  - lowerLimit: 171000
+    amount: 12000
+
+  - lowerLimit: 173000
+    amount: 12400
+
+  - lowerLimit: 175000
+    amount: 12700
+
+  - lowerLimit: 177000
+    amount: 13200
+
+  - lowerLimit: 179000
+    amount: 13900
+
+  - lowerLimit: 181000
+    amount: 14600
+
+  - lowerLimit: 183000
+    amount: 15300
+
+  - lowerLimit: 185000
+    amount: 16000
+
+  - lowerLimit: 187000
+    amount: 16700
+
+  - lowerLimit: 189000
+    amount: 17500
+
+  - lowerLimit: 191000
+    amount: 18100
+
+  - lowerLimit: 193000
+    amount: 18800
+
+  - lowerLimit: 195000
+    amount: 19500
+
+  - lowerLimit: 197000
+    amount: 20200
+
+  - lowerLimit: 199000
+    amount: 20900
+
+  - lowerLimit: 201000
+    amount: 21500
+
+  - lowerLimit: 203000
+    amount: 22200
+
+  - lowerLimit: 205000
+    amount: 22700
+
+  - lowerLimit: 207000
+    amount: 23300
+
+  - lowerLimit: 209000
+    amount: 23900
+
+  - lowerLimit: 211000
+    amount: 24400
+
+  - lowerLimit: 213000
+    amount: 25000
+
+  - lowerLimit: 215000
+    amount: 25500
+
+  - lowerLimit: 217000
+    amount: 26100
+
+  - lowerLimit: 219000
+    amount: 26800
+
+  - lowerLimit: 221000
+    amount: 27400
+
+  - lowerLimit: 224000
+    amount: 28400
+
+  - lowerLimit: 227000
+    amount: 29300
+
+  - lowerLimit: 230000
+    amount: 30300
+
+  - lowerLimit: 233000
+    amount: 31300
+
+  - lowerLimit: 236000
+    amount: 32400
+
+  - lowerLimit: 239000
+    amount: 33400
+
+  - lowerLimit: 242000
+    amount: 34400
+
+  - lowerLimit: 245000
+    amount: 35400
+
+  - lowerLimit: 248000
+    amount: 36400
+
+  - lowerLimit: 251000
+    amount: 37500
+
+  - lowerLimit: 254000
+    amount: 38500
+
+  - lowerLimit: 257000
+    amount: 39400
+
+  - lowerLimit: 260000
+    amount: 40400
+
+  - lowerLimit: 263000
+    amount: 41500
+
+  - lowerLimit: 266000
+    amount: 42500
+
+  - lowerLimit: 269000
+    amount: 43500
+
+  - lowerLimit: 272000
+    amount: 44500
+
+  - lowerLimit: 275000
+    amount: 45500
+
+  - lowerLimit: 278000
+    amount: 46600
+
+  - lowerLimit: 281000
+    amount: 47600
+
+  - lowerLimit: 284000
+    amount: 48600
+
+  - lowerLimit: 287000
+    amount: 49700
+
+  - lowerLimit: 290000
+    amount: 50900
+
+  - lowerLimit: 293000
+    amount: 52100
+
+  - lowerLimit: 296000
+    amount: 52900
+
+  - lowerLimit: 299000
+    amount: 53700
+
+  - lowerLimit: 302000
+    amount: 54500
+
+  - lowerLimit: 305000
+    amount: 55200
+
+  - lowerLimit: 308000
+    amount: 56100
+
+  - lowerLimit: 311000
+    amount: 56900
+
+  - lowerLimit: 314000
+    amount: 57800
+
+  - lowerLimit: 317000
+    amount: 58800
+
+  - lowerLimit: 320000
+    amount: 59800
+
+  - lowerLimit: 323000
+    amount: 60900
+
+  - lowerLimit: 326000
+    amount: 61900
+
+  - lowerLimit: 329000
+    amount: 62900
+
+  - lowerLimit: 332000
+    amount: 63900
+
+  - lowerLimit: 335000
+    amount: 64900
+
+  - lowerLimit: 338000
+    amount: 66000
+
+  - lowerLimit: 341000
+    amount: 67000
+
+  - lowerLimit: 344000
+    amount: 68000
+
+  - lowerLimit: 347000
+    amount: 69000
+
+  - lowerLimit: 350000
+    amount: 70000
+
+  - lowerLimit: 353000
+    amount: 71100
+
+  - lowerLimit: 356000
+    amount: 72100
+
+  - lowerLimit: 359000
+    amount: 73100
+
+  - lowerLimit: 362000
+    amount: 74200
+
+  - lowerLimit: 365000
+    amount: 75200
+
+  - lowerLimit: 368000
+    amount: 76200
+
+  - lowerLimit: 371000
+    amount: 77100
+
+  - lowerLimit: 374000
+    amount: 78100
+
+  - lowerLimit: 377000
+    amount: 79000
+
+  - lowerLimit: 380000
+    amount: 79900
+
+  - lowerLimit: 383000
+    amount: 81400
+
+  - lowerLimit: 386000
+    amount: 83100
+
+  - lowerLimit: 389000
+    amount: 84700
+
+  - lowerLimit: 392000
+    amount: 86500
+
+  - lowerLimit: 395000
+    amount: 88200
+
+  - lowerLimit: 398000
+    amount: 89800
+
+  - lowerLimit: 401000
+    amount: 91600
+
+  - lowerLimit: 404000
+    amount: 93300
+
+  - lowerLimit: 407000
+    amount: 95000
+
+  - lowerLimit: 410000
+    amount: 96700
+
+  - lowerLimit: 413000
+    amount: 98300
+
+  - lowerLimit: 416000
+    amount: 100100
+
+  - lowerLimit: 419000
+    amount: 101800
+
+  - lowerLimit: 422000
+    amount: 103400
+
+  - lowerLimit: 425000
+    amount: 105200
+
+  - lowerLimit: 428000
+    amount: 106900
+
+  - lowerLimit: 431000
+    amount: 108500
+
+  - lowerLimit: 434000
+    amount: 110300
+
+  - lowerLimit: 437000
+    amount: 112000
+
+  - lowerLimit: 440000
+    amount: 113600
+
+  - lowerLimit: 443000
+    amount: 115400
+
+  - lowerLimit: 446000
+    amount: 117100
+
+  - lowerLimit: 449000
+    amount: 118700
+
+  - lowerLimit: 452000
+    amount: 120500
+
+  - lowerLimit: 455000
+    amount: 122200
+
+  - lowerLimit: 458000
+    amount: 123800
+
+  - lowerLimit: 461000
+    amount: 125600
+
+  - lowerLimit: 464000
+    amount: 127300
+
+  - lowerLimit: 467000
+    amount: 129000
+
+  - lowerLimit: 470000
+    amount: 130700
+
+  - lowerLimit: 473000
+    amount: 132300
+
+  - lowerLimit: 476000
+    amount: 134000
+
+  - lowerLimit: 479000
+    amount: 135600
+
+  - lowerLimit: 482000
+    amount: 137200
+
+  - lowerLimit: 485000
+    amount: 138800
+
+  - lowerLimit: 488000
+    amount: 140400
+
+  - lowerLimit: 491000
+    amount: 142000
+
+  - lowerLimit: 494000
+    amount: 143700
+
+  - lowerLimit: 497000
+    amount: 145200
+
+  - lowerLimit: 500000
+    amount: 146800
+
+  - lowerLimit: 503000
+    amount: 148500
+
+  - lowerLimit: 506000
+    amount: 150100
+
+  - lowerLimit: 509000
+    amount: 151600
+
+  - lowerLimit: 512000
+    amount: 153300
+
+  - lowerLimit: 515000
+    amount: 154900
+
+  - lowerLimit: 518000
+    amount: 156500
+
+  - lowerLimit: 521000
+    amount: 158100
+
+  - lowerLimit: 524000
+    amount: 159600
+
+  - lowerLimit: 527000
+    amount: 161000
+
+  - lowerLimit: 530000
+    amount: 162500
+
+  - lowerLimit: 533000
+    amount: 164000
+
+  - lowerLimit: 536000
+    amount: 165400
+
+  - lowerLimit: 539000
+    amount: 166900
+
+  - lowerLimit: 542000
+    amount: 168400
+
+  - lowerLimit: 545000
+    amount: 169900
+
+  - lowerLimit: 548000
+    amount: 171300
+
+  - lowerLimit: 551000
+    amount: 172800
+
+  - lowerLimit: 554000
+    amount: 174300
+
+  - lowerLimit: 557000
+    amount: 175700
+
+  - lowerLimit: 560000
+    amount: 177200
+
+  - lowerLimit: 563000
+    amount: 178700
+
+  - lowerLimit: 566000
+    amount: 180100
+
+  - lowerLimit: 569000
+    amount: 181600
+
+  - lowerLimit: 572000
+    amount: 183100
+
+  - lowerLimit: 575000
+    amount: 184600
+
+  - lowerLimit: 578000
+    amount: 186000
+
+  - lowerLimit: 581000
+    amount: 187500
+
+  - lowerLimit: 584000
+    amount: 189000
+
+  - lowerLimit: 587000
+    amount: 190400
+
+  - lowerLimit: 590000
+    amount: 191900
+
+  - lowerLimit: 593000
+    amount: 193400
+
+  - lowerLimit: 596000
+    amount: 194800
+
+  - lowerLimit: 599000
+    amount: 196300
+
+  - lowerLimit: 602000
+    amount: 197800
+
+  - lowerLimit: 605000
+    amount: 199300
+
+  - lowerLimit: 608000
+    amount: 200700
+
+  - lowerLimit: 611000
+    amount: 202200
+
+  - lowerLimit: 614000
+    amount: 203700
+
+  - lowerLimit: 617000
+    amount: 205100
+
+  - lowerLimit: 620000
+    amount: 206700
+
+  - lowerLimit: 623000
+    amount: 208100
+
+  - lowerLimit: 626000
+    amount: 209500
+
+  - lowerLimit: 629000
+    amount: 211000
+
+  - lowerLimit: 632000
+    amount: 212500
+
+  - lowerLimit: 635000
+    amount: 214000
+
+  - lowerLimit: 638000
+    amount: 214900
+
+  - lowerLimit: 641000
+    amount: 215900
+
+  - lowerLimit: 644000
+    amount: 217000
+
+  - lowerLimit: 647000
+    amount: 218000
+
+  - lowerLimit: 650000
+    amount: 219000
+
+  - lowerLimit: 653000
+    amount: 220000
+
+  - lowerLimit: 656000
+    amount: 221000
+
+  - lowerLimit: 659000
+    amount: 222100
+
+  - lowerLimit: 662000
+    amount: 223100
+
+  - lowerLimit: 665000
+    amount: 224100
+
+  - lowerLimit: 668000
+    amount: 225000
+
+  - lowerLimit: 671000
+    amount: 226000
+
+  - lowerLimit: 674000
+    amount: 227100
+
+  - lowerLimit: 677000
+    amount: 228100
+
+  - lowerLimit: 680000
+    amount: 229100
+
+  - lowerLimit: 683000
+    amount: 230400
+
+  - lowerLimit: 686000
+    amount: 232100
+
+  - lowerLimit: 689000
+    amount: 233600
+
+  - lowerLimit: 692000
+    amount: 235100
+
+  - lowerLimit: 695000
+    amount: 236700
+
+  - lowerLimit: 698000
+    amount: 238200
+
+  - lowerLimit: 701000
+    amount: 239700
+
+  - lowerLimit: 704000
+    amount: 241300
+
+  - lowerLimit: 707000
+    amount: 242900
+
+  - lowerLimit: 710000
+    amount: 244400
+
+  - lowerLimit: 713000
+    amount: 246000
+
+  - lowerLimit: 716000
+    amount: 247500
+
+  - lowerLimit: 719000
+    amount: 249000
+
+  - lowerLimit: 722000
+    amount: 250600
+
+  - lowerLimit: 725000
+    amount: 252200
+
+  - lowerLimit: 728000
+    amount: 253700
+
+  - lowerLimit: 731000
+    amount: 255300
+
+  - lowerLimit: 734000
+    amount: 256800
+
+  - lowerLimit: 737000
+    amount: 258300
+
+  - lowerLimit: 740000
+    amount: 259800
+    overLowerLimitRate: 0.4084
+
+  - lowerLimit: 1700000
+    amount: 651900
+    overLowerLimitRate: 0.45945

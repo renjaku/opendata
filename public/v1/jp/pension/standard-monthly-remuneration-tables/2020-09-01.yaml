@@ -1,0 +1,127 @@
+- grade: 1
+  amount: 88000
+  lowerLimit: null
+
+- grade: 2
+  amount: 98000
+  lowerLimit: 93000
+
+- grade: 3
+  amount: 104000
+  lowerLimit: 101000
+
+- grade: 4
+  amount: 110000
+  lowerLimit: 107000
+
+- grade: 5
+  amount: 118000
+  lowerLimit: 114000
+
+- grade: 6
+  amount: 126000
+  lowerLimit: 122000
+
+- grade: 7
+  amount: 134000
+  lowerLimit: 130000
+
+- grade: 8
+  amount: 142000
+  lowerLimit: 138000
+
+- grade: 9
+  amount: 150000
+  lowerLimit: 146000
+
+- grade: 10
+  amount: 160000
+  lowerLimit: 155000
+
+- grade: 11
+  amount: 170000
+  lowerLimit: 165000
+
+- grade: 12
+  amount: 180000
+  lowerLimit: 175000
+
+- grade: 13
+  amount: 190000
+  lowerLimit: 185000
+
+- grade: 14
+  amount: 200000
+  lowerLimit: 195000
+
+- grade: 15
+  amount: 220000
+  lowerLimit: 210000
+
+- grade: 16
+  amount: 240000
+  lowerLimit: 230000
+
+- grade: 17
+  amount: 260000
+  lowerLimit: 250000
+
+- grade: 18
+  amount: 280000
+  lowerLimit: 270000
+
+- grade: 19
+  amount: 300000
+  lowerLimit: 290000
+
+- grade: 20
+  amount: 320000
+  lowerLimit: 310000
+
+- grade: 21
+  amount: 340000
+  lowerLimit: 330000
+
+- grade: 22
+  amount: 360000
+  lowerLimit: 350000
+
+- grade: 23
+  amount: 380000
+  lowerLimit: 370000
+
+- grade: 24
+  amount: 410000
+  lowerLimit: 395000
+
+- grade: 25
+  amount: 440000
+  lowerLimit: 425000
+
+- grade: 26
+  amount: 470000
+  lowerLimit: 455000
+
+- grade: 27
+  amount: 500000
+  lowerLimit: 485000
+
+- grade: 28
+  amount: 530000
+  lowerLimit: 515000
+
+- grade: 29
+  amount: 560000
+  lowerLimit: 545000
+
+- grade: 30
+  amount: 590000
+  lowerLimit: 575000
+
+- grade: 31
+  amount: 620000
+  lowerLimit: 605000
+
+- grade: 32
+  amount: 650000
+  lowerLimit: 635000

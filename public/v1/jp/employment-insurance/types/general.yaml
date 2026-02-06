@@ -1,0 +1,10 @@
+name: 一般
+
+revisions:
+  - start: 2023-04-01
+    employeeRate: 0.006
+    employerRate: 0.0095
+
+  - start: 2025-04-01
+    employeeRate: 0.0055
+    employerRate: 0.009

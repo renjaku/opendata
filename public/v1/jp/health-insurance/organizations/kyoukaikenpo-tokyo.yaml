@@ -1,0 +1,11 @@
+name: 協会けんぽ東京都
+revisions:
+  - start: 2024-03-01
+    rate: 0.0998
+    careRate: 0.016
+    contributionRate: 0.5
+
+  - start: 2025-03-01
+    rate: 0.0991
+    careRate: 0.0159
+    contributionRate: 0.5

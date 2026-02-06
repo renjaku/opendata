@@ -1,0 +1,12 @@
+{
+  "name": "opendata",
+  "dependencies": {
+    "glob": "^11.0.0",
+    "yaml": "^2.5.0"
+  },
+  "scripts": {
+    "build": "node build.js",
+    "clean": "node -e \"const fs = require('fs'); const path = require('path'); const dir = 'dist'; if (!fs.existsSync(dir)) process.exit(0); fs.readdirSync(dir).forEach(file => { const filePath = path.join(dir, file); fs.statSync(filePath).isDirectory() ? fs.rmSync(filePath, { recursive: true }) : fs.unlinkSync(filePath); }); console.log('Cleared dist directory');\"",
+    "clean:build": "npm run clean && npm run build"
+  }
+}

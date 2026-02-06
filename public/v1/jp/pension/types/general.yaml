@@ -1,0 +1,10 @@
+name: 一般
+
+revisions:
+  - start: 2016-10-01
+    rate: 0.18182
+    contributionRate: 0.5
+
+  - start: 2017-09-01
+    rate: 0.183
+    contributionRate: 0.5

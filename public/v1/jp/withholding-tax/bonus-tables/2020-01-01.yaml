@@ -1,0 +1,527 @@
+dependents0:
+  - lowerLimit: null
+    rate: 0
+
+  - lowerLimit: 68000
+    rate: 0.02042
+
+  - lowerLimit: 79000
+    rate: 0.04084
+
+  - lowerLimit: 252000
+    rate: 0.06126
+
+  - lowerLimit: 300000
+    rate: 0.08168
+
+  - lowerLimit: 334000
+    rate: 0.10210
+
+  - lowerLimit: 363000
+    rate: 0.12252
+
+  - lowerLimit: 395000
+    rate: 0.14294
+
+  - lowerLimit: 426000
+    rate: 0.16336
+
+  - lowerLimit: 520000
+    rate: 0.18378
+
+  - lowerLimit: 601000
+    rate: 0.20420
+
+  - lowerLimit: 678000
+    rate: 0.22462
+
+  - lowerLimit: 708000
+    rate: 0.24504
+
+  - lowerLimit: 745000
+    rate: 0.26546
+
+  - lowerLimit: 788000
+    rate: 0.28588
+
+  - lowerLimit: 846000
+    rate: 0.30630
+
+  - lowerLimit: 914000
+    rate: 0.32672
+
+  - lowerLimit: 1312000
+    rate: 0.35735
+
+  - lowerLimit: 1521000
+    rate: 0.38798
+
+  - lowerLimit: 2621000
+    rate: 0.41861
+
+  - lowerLimit: 3495000
+    rate: 0.45945
+
+dependents1:
+  - lowerLimit: null
+    rate: 0
+
+  - lowerLimit: 94000
+    rate: 0.02042
+
+  - lowerLimit: 243000
+    rate: 0.04084
+
+  - lowerLimit: 282000
+    rate: 0.06126
+
+  - lowerLimit: 338000
+    rate: 0.08168
+
+  - lowerLimit: 365000
+    rate: 0.10210
+
+  - lowerLimit: 394000
+    rate: 0.12252
+
+  - lowerLimit: 422000
+    rate: 0.14294
+
+  - lowerLimit: 455000
+    rate: 0.16336
+
+  - lowerLimit: 520000
+    rate: 0.18378
+
+  - lowerLimit: 617000
+    rate: 0.20420
+
+  - lowerLimit: 699000
+    rate: 0.22462
+
+  - lowerLimit: 733000
+    rate: 0.24504
+
+  - lowerLimit: 771000
+    rate: 0.26546
+
+  - lowerLimit: 814000
+    rate: 0.28588
+
+  - lowerLimit: 874000
+    rate: 0.30630
+
+  - lowerLimit: 944000
+    rate: 0.32672
+
+  - lowerLimit: 1336000
+    rate: 0.35735
+
+  - lowerLimit: 1526000
+    rate: 0.38798
+
+  - lowerLimit: 2645000
+    rate: 0.41861
+
+  - lowerLimit: 3527000
+    rate: 0.45945
+
+dependents2:
+  - lowerLimit: null
+    rate: 0
+
+  - lowerLimit: 133000
+    rate: 0.02042
+
+  - lowerLimit: 269000
+    rate: 0.04084
+
+  - lowerLimit: 312000
+    rate: 0.06126
+
+  - lowerLimit: 369000
+    rate: 0.08168
+
+  - lowerLimit: 393000
+    rate: 0.10210
+
+  - lowerLimit: 420000
+    rate: 0.12252
+
+  - lowerLimit: 450000
+    rate: 0.14294
+
+  - lowerLimit: 484000
+    rate: 0.16336
+
+  - lowerLimit: 520000
+    rate: 0.18378
+
+  - lowerLimit: 632000
+    rate: 0.20420
+
+  - lowerLimit: 721000
+    rate: 0.22462
+
+  - lowerLimit: 757000
+    rate: 0.24504
+
+  - lowerLimit: 797000
+    rate: 0.26546
+
+  - lowerLimit: 841000
+    rate: 0.28588
+
+  - lowerLimit: 902000
+    rate: 0.30630
+
+  - lowerLimit: 975000
+    rate: 0.32672
+
+  - lowerLimit: 1360000
+    rate: 0.35735
+
+  - lowerLimit: 1526000
+    rate: 0.38798
+
+  - lowerLimit: 2669000
+    rate: 0.41861
+
+  - lowerLimit: 3559000
+    rate: 0.45945
+
+dependents3:
+  - lowerLimit: null
+    rate: 0
+
+  - lowerLimit: 171000
+    rate: 0.02042
+
+  - lowerLimit: 295000
+    rate: 0.04084
+
+  - lowerLimit: 345000
+    rate: 0.06126
+
+  - lowerLimit: 398000
+    rate: 0.08168
+
+  - lowerLimit: 417000
+    rate: 0.10210
+
+  - lowerLimit: 445000
+    rate: 0.12252
+
+  - lowerLimit: 477000
+    rate: 0.14294
+
+  - lowerLimit: 510000
+    rate: 0.16336
+
+  - lowerLimit: 544000
+    rate: 0.18378
+
+  - lowerLimit: 647000
+    rate: 0.20420
+
+  - lowerLimit: 745000
+    rate: 0.22462
+
+  - lowerLimit: 782000
+    rate: 0.24504
+
+  - lowerLimit: 823000
+    rate: 0.26546
+
+  - lowerLimit: 868000
+    rate: 0.28588
+
+  - lowerLimit: 931000
+    rate: 0.30630
+
+  - lowerLimit: 1005000
+    rate: 0.32672
+
+  - lowerLimit: 1385000
+    rate: 0.35735
+
+  - lowerLimit: 1538000
+    rate: 0.38798
+
+  - lowerLimit: 2693000
+    rate: 0.41861
+
+  - lowerLimit: 3590000
+    rate: 0.45945
+
+dependents4:
+  - lowerLimit: null
+    rate: 0
+
+  - lowerLimit: 210000
+    rate: 0.02042
+
+  - lowerLimit: 300000
+    rate: 0.04084
+
+  - lowerLimit: 378000
+    rate: 0.06126
+
+  - lowerLimit: 424000
+    rate: 0.08168
+
+  - lowerLimit: 444000
+    rate: 0.10210
+
+  - lowerLimit: 470000
+    rate: 0.12252
+
+  - lowerLimit: 503000
+    rate: 0.14294
+
+  - lowerLimit: 534000
+    rate: 0.16336
+
+  - lowerLimit: 570000
+    rate: 0.18378
+
+  - lowerLimit: 662000
+    rate: 0.20420
+
+  - lowerLimit: 768000
+    rate: 0.22462
+
+  - lowerLimit: 806000
+    rate: 0.24504
+
+  - lowerLimit: 849000
+    rate: 0.26546
+
+  - lowerLimit: 896000
+    rate: 0.28588
+
+  - lowerLimit: 959000
+    rate: 0.30630
+
+  - lowerLimit: 1036000
+    rate: 0.32672
+
+  - lowerLimit: 1409000
+    rate: 0.35735
+
+  - lowerLimit: 1555000
+    rate: 0.38798
+
+  - lowerLimit: 2716000
+    rate: 0.41861
+
+  - lowerLimit: 3622000
+    rate: 0.45945
+
+dependents5:
+  - lowerLimit: null
+    rate: 0
+
+  - lowerLimit: 243000
+    rate: 0.02042
+
+  - lowerLimit: 300000
+    rate: 0.04084
+
+  - lowerLimit: 406000
+    rate: 0.06126
+
+  - lowerLimit: 450000
+    rate: 0.08168
+
+  - lowerLimit: 472000
+    rate: 0.10210
+
+  - lowerLimit: 496000
+    rate: 0.12252
+
+  - lowerLimit: 525000
+    rate: 0.14294
+
+  - lowerLimit: 557000
+    rate: 0.16336
+
+  - lowerLimit: 597000
+    rate: 0.18378
+
+  - lowerLimit: 677000
+    rate: 0.20420
+
+  - lowerLimit: 792000
+    rate: 0.22462
+
+  - lowerLimit: 831000
+    rate: 0.24504
+
+  - lowerLimit: 875000
+    rate: 0.26546
+
+  - lowerLimit: 923000
+    rate: 0.28588
+
+  - lowerLimit: 987000
+    rate: 0.30630
+
+  - lowerLimit: 1066000
+    rate: 0.32672
+
+  - lowerLimit: 1434000
+    rate: 0.35735
+
+  - lowerLimit: 1555000
+    rate: 0.38798
+
+  - lowerLimit: 2740000
+    rate: 0.41861
+
+  - lowerLimit: 3654000
+    rate: 0.45945
+
+dependents6:
+  - lowerLimit: null
+    rate: 0
+
+  - lowerLimit: 275000
+    rate: 0.02042
+
+  - lowerLimit: 333000
+    rate: 0.04084
+
+  - lowerLimit: 431000
+    rate: 0.06126
+
+  - lowerLimit: 476000
+    rate: 0.08168
+
+  - lowerLimit: 499000
+    rate: 0.10210
+
+  - lowerLimit: 521000
+    rate: 0.12252
+
+  - lowerLimit: 547000
+    rate: 0.14294
+
+  - lowerLimit: 582000
+    rate: 0.16336
+
+  - lowerLimit: 623000
+    rate: 0.18378
+
+  - lowerLimit: 693000
+    rate: 0.20420
+
+  - lowerLimit: 815000
+    rate: 0.22462
+
+  - lowerLimit: 856000
+    rate: 0.24504
+
+  - lowerLimit: 900000
+    rate: 0.26546
+
+  - lowerLimit: 950000
+    rate: 0.28588
+
+  - lowerLimit: 1015000
+    rate: 0.30630
+
+  - lowerLimit: 1096000
+    rate: 0.32672
+
+  - lowerLimit: 1458000
+    rate: 0.35735
+
+  - lowerLimit: 1555000
+    rate: 0.38798
+
+  - lowerLimit: 2764000
+    rate: 0.41861
+
+  - lowerLimit: 3685000
+    rate: 0.45945
+
+dependents7:
+  - lowerLimit: null
+    rate: 0
+
+  - lowerLimit: 308000
+    rate: 0.02042
+
+  - lowerLimit: 372000
+    rate: 0.04084
+
+  - lowerLimit: 456000
+    rate: 0.06126
+
+  - lowerLimit: 502000
+    rate: 0.08168
+
+  - lowerLimit: 523000
+    rate: 0.10210
+
+  - lowerLimit: 545000
+    rate: 0.12252
+
+  - lowerLimit: 571000
+    rate: 0.14294
+
+  - lowerLimit: 607000
+    rate: 0.16336
+
+  - lowerLimit: 650000
+    rate: 0.18378
+
+  - lowerLimit: 708000
+    rate: 0.20420
+
+  - lowerLimit: 838000
+    rate: 0.22462
+
+  - lowerLimit: 880000
+    rate: 0.24504
+
+  - lowerLimit: 926000
+    rate: 0.26546
+
+  - lowerLimit: 978000
+    rate: 0.28588
+
+  - lowerLimit: 1043000
+    rate: 0.30630
+
+  - lowerLimit: 1127000
+    rate: 0.32672
+
+  - lowerLimit: 1482000
+    rate: 0.35735
+
+  - lowerLimit: 1583000
+    rate: 0.38798
+
+  - lowerLimit: 2788000
+    rate: 0.41861
+
+  - lowerLimit: 3717000
+    rate: 0.45945
+
+unknown:
+  - lowerLimit: null
+    rate: 0.10210
+
+  - lowerLimit: 222000
+    rate: 0.20420
+
+  - lowerLimit: 293000
+    rate: 0.30630
+
+  - lowerLimit: 524000
+    rate: 0.38798
+
+  - lowerLimit: 1118000
+    rate: 0.45945
