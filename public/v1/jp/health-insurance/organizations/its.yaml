@@ -13,5 +13,5 @@ revisions:
   - start: 2026-04-01
     rate: 0.0927
     careRate: 0.018
-    employeeShareRate: 0.5
     childcareSupportRate: 0.0023
+    employeeShareRate: 0.5
