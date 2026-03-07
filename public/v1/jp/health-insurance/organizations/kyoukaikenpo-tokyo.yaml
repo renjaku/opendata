@@ -3,20 +3,20 @@ revisions:
   - start: 2024-03-01
     rate: 0.0998
     careRate: 0.016
-    contributionRate: 0.5
+    employeeShareRate: 0.5
 
   - start: 2025-03-01
     rate: 0.0991
     careRate: 0.0159
-    contributionRate: 0.5
+    employeeShareRate: 0.5
 
   - start: 2026-03-01
     rate: 0.0985
     careRate: 0.0162
-    contributionRate: 0.5
+    employeeShareRate: 0.5
 
   - start: 2026-04-01
     rate: 0.0985
     careRate: 0.0162
-    contributionRate: 0.5
+    employeeShareRate: 0.5
     childcareSupportRate: 0.0023

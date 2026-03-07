@@ -3,8 +3,15 @@ name: 一般
 revisions:
   - start: 2016-10-01
     rate: 0.18182
-    contributionRate: 0.5
+    employeeShareRate: 0.5
+    childcareContributionRate: 0.0034
 
   - start: 2017-09-01
     rate: 0.183
-    contributionRate: 0.5
+    employeeShareRate: 0.5
+    childcareContributionRate: 0.0034
+
+  - start: 2020-04-01
+    rate: 0.183
+    employeeShareRate: 0.5
+    childcareContributionRate: 0.0036
