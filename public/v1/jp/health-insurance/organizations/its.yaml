@@ -1,7 +1,17 @@
 name: ITS
 revisions:
   - start: 2024-03-01
-    employeeRate: 0.0475
-    employerRate: 0.0475
-    employeeCareRate: 0.01
-    employerCareRate: 0.01
+    rate: 0.095
+    careRate: 0.02
+    employeeShareRate: 0.5
+
+  - start: 2026-03-01
+    rate: 0.095
+    careRate: 0.018
+    employeeShareRate: 0.5
+
+  - start: 2026-04-01
+    rate: 0.0927
+    careRate: 0.018
+    employeeShareRate: 0.5
+    childcareSupportRate: 0.0023
